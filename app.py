@@ -1,9 +1,9 @@
 """Módulos de importação"""
 
+import locale
 import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
-import locale
 
 # Utilizando o Streamlit para criação dos gráficos
 
