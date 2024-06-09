@@ -1,8 +1,8 @@
 """Módulos de importação"""
 
+import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-import streamlit as st
 
 # Utilizando o Streamlit para criação dos gráficos
 
@@ -14,27 +14,27 @@ def formatar_brl(valor):
 
 
 # Função para carregar os dados
-@st.cache_resource
+@st.cache_data
 def load_data():
     """Função para carregar os dados"""
-    df = pd.read_csv("vendas.csv")
-    df["Data"] = pd.to_datetime(df["Data"])
-    return df
+    data = pd.read_csv("vendas.csv")
+    data["Data"] = pd.to_datetime(data["Data"])
+    return data
 
 
 # Carregar os dados
-df = load_data()
+data = load_data()
 
 # Título da aplicação
 st.title("Análise de Vendas de Produtos Brasileiros")
 
 # Extrair dataset
 st.subheader("Dados de Vendas")
-st.write(df.head())
+st.write(data.head())
 
 # Análise 1: Total de Vendas por Cidade
 st.subheader("Total de Vendas por Cidade")
-vendas_por_cidade = df.groupby("Cidade")["Valor Total"].sum().sort_values()
+vendas_por_cidade = data.groupby("Cidade")["Valor Total"].sum().sort_values()
 fig, ax = plt.subplots(figsize=(10, 6))
 vendas_por_cidade.plot(kind="barh", color="skyblue", ax=ax)
 ax.set_title("Total de Vendas por Cidade")
@@ -56,7 +56,7 @@ st.pyplot(fig)
 
 # Análise 2: Total de Vendas por Categoria
 st.subheader("Distribuição de Vendas por Categoria")
-vendas_por_categoria = df.groupby("Categoria")["Valor Total"].sum()
+vendas_por_categoria = data.groupby("Categoria")["Valor Total"].sum()
 fig, ax = plt.subplots(figsize=(8, 8))
 vendas_por_categoria.plot(
     kind="pie",
@@ -71,7 +71,7 @@ st.pyplot(fig)
 
 # Análise 3: Total de Vendas por Canal de Venda
 st.subheader("Total de Vendas por Canal de Venda")
-vendas_por_canal = df.groupby("Canal de Venda")["Valor Total"].sum()
+vendas_por_canal = data.groupby("Canal de Venda")["Valor Total"].sum()
 fig, ax = plt.subplots(figsize=(8, 6))
 vendas_por_canal.plot(kind="bar", color="coral", ax=ax)
 ax.set_title("Total de Vendas por Canal de Venda")
@@ -94,7 +94,7 @@ st.pyplot(fig)
 
 # Análise 4: Vendas ao Longo do Tempo
 st.subheader("Vendas ao Longo do Tempo")
-vendas_mensais = df.groupby(df["Data"].dt.to_period("M"))["Valor Total"].sum()
+vendas_mensais = data.groupby(data["Data"].dt.to_period("M"))["Valor Total"].sum()
 fig, ax = plt.subplots(figsize=(12, 6))
 vendas_mensais.plot(kind="line", marker="o", linestyle="-", color="blue", ax=ax)
 ax.set_title("Vendas ao Longo do Tempo")
@@ -106,7 +106,7 @@ st.pyplot(fig)
 # Análise 5: Top Produtos Vendidos
 st.subheader("Top Produtos Vendidos")
 top_produtos = (
-    df.groupby("Produto")["Valor Total"].sum().sort_values(ascending=False).head(10)
+    data.groupby("Produto")["Valor Total"].sum().sort_values(ascending=False).head(10)
 )
 fig, ax = plt.subplots(figsize=(10, 6))
 top_produtos.plot(kind="bar", color="purple", ax=ax)
