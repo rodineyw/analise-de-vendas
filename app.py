@@ -4,8 +4,6 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Utilizando o Streamlit para criação dos gráficos
-
 
 # Função para formatar valores em Real (BRL)
 def formatar_brl(valor):
@@ -14,7 +12,7 @@ def formatar_brl(valor):
 
 
 # Função para carregar os dados
-@st.cache_data
+@st.cache_data(suppress_st_warning=True)
 def load_data():
     """Função para carregar os dados"""
     data = pd.read_csv("vendas.csv")
