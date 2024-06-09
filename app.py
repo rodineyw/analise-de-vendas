@@ -1,26 +1,21 @@
-"""Módulos de importação"""
-
-import locale
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 import streamlit as st
+import numpy as np
+import datetime
 
 # Utilizando o Streamlit para criação dos gráficos
 
-# Configurar a formatação de moeda para Real (BRL)
-locale.setlocale(locale.LC_ALL, "pt_BR.UTF-8")
 
-
-# Função para formatar valores em Real
+# Função para formatar valores em Real (BRL)
 def formatar_brl(valor):
-    """Função para formatar valores em Real (BRL)"""
-    return locale.currency(valor, grouping=True)
+    return f"R$ {valor:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
 
 
 # Função para carregar os dados
 @st.cache_data
 def load_data():
-    """Função para carregar os dados"""
     df = pd.read_csv("vendas.csv")
     df["Data"] = pd.to_datetime(df["Data"])
     return df
@@ -73,8 +68,8 @@ ax.set_title("Distribuição de Vendas por Categoria")
 ax.set_ylabel("")
 st.pyplot(fig)
 
-# Análise 3: Total de Vendas por Canal de Vendas
-st.subheader("Total de Vendas por Canal de Vendas")
+# Análise 3: Total de Vendas por Canal de Venda
+st.subheader("Total de Vendas por Canal de Venda")
 vendas_por_canal = df.groupby("Canal de Venda")["Valor Total"].sum()
 fig, ax = plt.subplots(figsize=(8, 6))
 vendas_por_canal.plot(kind="bar", color="coral", ax=ax)
@@ -107,16 +102,6 @@ ax.set_ylabel("Valor Total (R$)")
 ax.grid(axis="both")
 st.pyplot(fig)
 
-# Adicionar valores formatados nos gráficos
-for i in ax.patches:
-    ax.text(
-        i.get_x() + i.get_width() / 2,
-        i.get_height() + 0.1,
-        formatar_brl(i.get_height()),
-        ha="center",
-        va="bottom",
-    )
-
 # Análise 5: Top Produtos Vendidos
 st.subheader("Top Produtos Vendidos")
 top_produtos = (
@@ -124,11 +109,9 @@ top_produtos = (
 )
 fig, ax = plt.subplots(figsize=(10, 6))
 top_produtos.plot(kind="bar", color="purple", ax=ax)
-ax.set_title("Top 10 Protudos Vendidos")
-ax.set_xlabel("Protudo")
+ax.set_title("Top 10 Produtos Vendidos")
+ax.set_xlabel("Produto")
 ax.set_ylabel("Valor Total (R$)")
 ax.grid(axis="y")
-
-# Definindo as legendas na Horizontal
-ax.set_xticklabels(ax.get_xticklabels(), rotation=0)
+ax.set_xticklabels(ax.get_xticklabels(), rotation=0, ha="right")
 st.pyplot(fig)
