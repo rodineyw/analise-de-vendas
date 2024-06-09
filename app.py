@@ -1,9 +1,8 @@
+"""Módulos de importação"""
+
 import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn as sns
 import streamlit as st
-import numpy as np
-import datetime
 import locale
 
 # Utilizando o Streamlit para criação dos gráficos
@@ -14,12 +13,14 @@ locale.setlocale(locale.LC_ALL, "pt_BR.UTF-8")
 
 # Função para formatar valores em Real
 def formatar_brl(valor):
+    """Função para formatar valores em Real (BRL)"""
     return locale.currency(valor, grouping=True)
 
 
 # Função para carregar os dados
 @st.cache_data
 def load_data():
+    """Função para carregar os dados"""
     df = pd.read_csv("vendas.csv")
     df["Data"] = pd.to_datetime(df["Data"])
     return df
