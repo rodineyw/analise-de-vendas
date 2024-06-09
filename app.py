@@ -14,7 +14,7 @@ def formatar_brl(valor):
 
 
 # Função para carregar os dados
-@st.cache_data
+@st.cache_resource
 def load_data():
     """Função para carregar os dados"""
     df = pd.read_csv("vendas.csv")
