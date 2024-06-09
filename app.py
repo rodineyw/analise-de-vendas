@@ -12,7 +12,7 @@ def formatar_brl(valor):
 
 
 # Função para carregar os dados
-@st.cache_data(suppress_st_warning=True)
+@st.cache_data
 def load_data():
     """Função para carregar os dados"""
     data = pd.read_csv("vendas.csv")
