@@ -1,0 +1,1001 @@
+﻿Data,Produto,Categoria,Quantidade,Preço Unitário,Valor Total,Cidade,Estado,Canal de Venda
+2023-02-14,Carne,Bebidas,4,19.3,77.2,São Paulo,SP,Online
+2023-04-11,Café,Alimentos,12,18.12,217.44,São Paulo,SP,Online
+2023-12-06,Pão,Alimentos,7,14.48,101.36,São Paulo,SP,Loja Física
+2023-10-06,Pão,Alimentos,6,7.9,47.400000000000006,Rio de Janeiro,RJ,Loja Física
+2023-05-18,Leite,Higiene,16,29.28,468.48,Curitiba,PR,Loja Física
+2023-05-25,Farinha,Bebidas,6,8.4,50.400000000000006,Fortaleza,CE,Loja Física
+2023-09-06,Leite,Bebidas,10,5.1,51.0,São Paulo,SP,Online
+2023-09-29,Pão,Bebidas,10,34.99,349.90000000000003,Rio de Janeiro,RJ,Loja Física
+2023-04-02,Farinha,Limpeza,10,44.84,448.40000000000003,Rio de Janeiro,RJ,Online
+2023-09-18,Arroz,Higiene,16,9.17,146.72,São Paulo,SP,Online
+2023-12-26,Leite,Higiene,9,35.09,315.81000000000006,Rio de Janeiro,RJ,Online
+2023-05-16,Frango,Higiene,15,4.89,73.35,Fortaleza,CE,Loja Física
+2023-05-26,Farinha,Limpeza,12,33.94,407.28,Brasília,DF,Loja Física
+2023-11-19,Carne,Alimentos,12,29.12,349.44,Curitiba,PR,Online
+2023-03-08,Feijão,Alimentos,16,3.0,48.0,Fortaleza,CE,Online
+2023-07-14,Carne,Higiene,7,27.06,189.42,Curitiba,PR,Online
+2023-06-26,Frango,Limpeza,6,36.16,216.95999999999998,Rio de Janeiro,RJ,Online
+2023-11-03,Leite,Higiene,11,3.98,43.78,Brasília,DF,Online
+2023-09-10,Óleo,Alimentos,4,7.32,29.28,São Paulo,SP,Loja Física
+2023-11-20,Arroz,Higiene,13,7.09,92.17,Porto Alegre,RS,Loja Física
+2023-03-17,Feijão,Higiene,7,37.56,262.92,São Paulo,SP,Loja Física
+2023-02-21,Arroz,Higiene,16,46.44,743.04,Salvador,BA,Loja Física
+2023-06-26,Açúcar,Higiene,4,31.85,127.4,Curitiba,PR,Online
+2023-02-03,Leite,Limpeza,2,48.58,97.16,Curitiba,PR,Loja Física
+2023-01-31,Leite,Bebidas,6,19.17,115.02000000000001,Rio de Janeiro,RJ,Loja Física
+2023-01-23,Arroz,Bebidas,17,21.33,362.60999999999996,Salvador,BA,Loja Física
+2023-03-16,Óleo,Bebidas,18,14.48,260.64,Belo Horizonte,MG,Loja Física
+2023-10-19,Arroz,Alimentos,4,23.58,94.32,Brasília,DF,Online
+2023-11-23,Frango,Higiene,17,47.82,812.94,Rio de Janeiro,RJ,Loja Física
+2023-10-19,Açúcar,Bebidas,13,37.12,482.55999999999995,Rio de Janeiro,RJ,Loja Física
+2023-07-11,Pão,Bebidas,6,2.72,16.32,Rio de Janeiro,RJ,Online
+2023-07-25,Pão,Bebidas,17,17.73,301.41,Brasília,DF,Online
+2023-04-17,Frango,Limpeza,14,44.83,627.62,Brasília,DF,Online
+2023-08-29,Leite,Higiene,2,18.91,37.82,Belo Horizonte,MG,Loja Física
+2023-10-25,Feijão,Limpeza,1,11.44,11.44,São Paulo,SP,Online
+2023-10-04,Frango,Bebidas,11,17.33,190.63,Fortaleza,CE,Online
+2023-11-20,Óleo,Limpeza,14,48.16,674.24,São Paulo,SP,Online
+2023-07-11,Leite,Bebidas,6,47.67,286.02,Porto Alegre,RS,Loja Física
+2023-11-25,Arroz,Limpeza,13,3.74,48.620000000000005,Fortaleza,CE,Online
+2023-03-27,Leite,Bebidas,7,39.96,279.72,Fortaleza,CE,Online
+2023-11-12,Pão,Higiene,8,11.75,94.0,Rio de Janeiro,RJ,Online
+2023-03-05,Farinha,Alimentos,19,36.53,694.07,Fortaleza,CE,Loja Física
+2023-02-01,Arroz,Higiene,18,10.85,195.29999999999998,São Paulo,SP,Loja Física
+2023-06-10,Óleo,Alimentos,3,37.96,113.88,Belo Horizonte,MG,Loja Física
+2023-07-22,Açúcar,Alimentos,9,15.42,138.78,Belo Horizonte,MG,Loja Física
+2023-07-27,Feijão,Higiene,10,45.64,456.4,Rio de Janeiro,RJ,Online
+2023-07-04,Pão,Alimentos,2,20.18,40.36,Fortaleza,CE,Online
+2023-06-16,Farinha,Bebidas,2,8.27,16.54,Porto Alegre,RS,Online
+2023-01-06,Arroz,Bebidas,1,17.79,17.79,Curitiba,PR,Loja Física
+2023-07-24,Frango,Alimentos,1,4.91,4.91,Belo Horizonte,MG,Loja Física
+2023-02-13,Açúcar,Alimentos,3,3.61,10.83,São Paulo,SP,Online
+2023-12-02,Pão,Alimentos,7,44.85,313.95,Curitiba,PR,Online
+2023-05-28,Leite,Higiene,10,42.67,426.70000000000005,Fortaleza,CE,Online
+2023-06-02,Frango,Alimentos,19,47.99,911.8100000000001,Fortaleza,CE,Loja Física
+2023-07-19,Arroz,Alimentos,2,12.67,25.34,Brasília,DF,Loja Física
+2023-08-26,Feijão,Alimentos,19,48.63,923.97,Salvador,BA,Loja Física
+2023-02-18,Arroz,Bebidas,11,7.2,79.2,Salvador,BA,Online
+2023-07-26,Açúcar,Alimentos,12,48.49,581.88,Rio de Janeiro,RJ,Online
+2023-06-28,Óleo,Bebidas,8,44.2,353.6,Belo Horizonte,MG,Online
+2023-11-03,Farinha,Bebidas,16,11.53,184.48,Fortaleza,CE,Online
+2023-04-23,Leite,Alimentos,18,34.34,618.1200000000001,São Paulo,SP,Loja Física
+2023-11-09,Frango,Alimentos,19,45.58,866.02,Rio de Janeiro,RJ,Online
+2023-03-04,Frango,Alimentos,15,42.25,633.75,Curitiba,PR,Online
+2023-02-14,Pão,Alimentos,19,35.42,672.98,Belo Horizonte,MG,Online
+2023-11-18,Café,Limpeza,12,24.21,290.52,São Paulo,SP,Online
+2023-01-22,Pão,Higiene,4,40.88,163.52,Curitiba,PR,Online
+2023-03-22,Feijão,Limpeza,16,42.23,675.68,Salvador,BA,Online
+2023-05-31,Feijão,Higiene,9,10.54,94.85999999999999,Fortaleza,CE,Loja Física
+2023-04-14,Feijão,Bebidas,1,12.98,12.98,Belo Horizonte,MG,Loja Física
+2023-03-01,Arroz,Bebidas,12,12.45,149.39999999999998,Brasília,DF,Loja Física
+2023-12-17,Pão,Bebidas,7,15.4,107.8,Curitiba,PR,Online
+2023-08-16,Açúcar,Alimentos,3,44.73,134.19,São Paulo,SP,Loja Física
+2023-01-05,Arroz,Alimentos,12,46.07,552.84,Belo Horizonte,MG,Online
+2023-06-17,Feijão,Limpeza,17,49.25,837.25,Belo Horizonte,MG,Online
+2023-11-21,Arroz,Limpeza,18,36.7,660.6,Rio de Janeiro,RJ,Loja Física
+2023-01-12,Café,Alimentos,6,32.82,196.92000000000002,Belo Horizonte,MG,Online
+2023-03-09,Carne,Alimentos,10,44.14,441.4,Salvador,BA,Online
+2023-07-14,Leite,Bebidas,7,11.24,78.68,Porto Alegre,RS,Loja Física
+2023-10-01,Café,Bebidas,13,8.52,110.75999999999999,São Paulo,SP,Online
+2023-02-07,Óleo,Alimentos,16,19.57,313.12,São Paulo,SP,Loja Física
+2023-01-26,Feijão,Bebidas,17,9.54,162.17999999999998,Curitiba,PR,Online
+2023-12-08,Pão,Limpeza,9,45.25,407.25,Curitiba,PR,Online
+2023-11-24,Arroz,Higiene,12,30.68,368.15999999999997,Rio de Janeiro,RJ,Loja Física
+2023-06-21,Pão,Bebidas,7,13.15,92.05,Salvador,BA,Online
+2023-11-20,Pão,Limpeza,9,35.32,317.88,Curitiba,PR,Online
+2023-06-21,Leite,Alimentos,19,4.32,82.08000000000001,Brasília,DF,Online
+2023-09-04,Carne,Limpeza,10,45.14,451.4,Curitiba,PR,Online
+2023-11-17,Açúcar,Higiene,8,43.26,346.08,Curitiba,PR,Loja Física
+2023-03-27,Açúcar,Bebidas,5,23.56,117.8,Salvador,BA,Online
+2023-10-28,Café,Higiene,17,18.75,318.75,Fortaleza,CE,Online
+2023-04-23,Café,Limpeza,7,6.05,42.35,São Paulo,SP,Loja Física
+2023-09-01,Frango,Alimentos,10,16.14,161.4,Curitiba,PR,Loja Física
+2023-04-01,Feijão,Bebidas,12,10.82,129.84,Porto Alegre,RS,Online
+2023-05-05,Pão,Higiene,12,29.92,359.04,Fortaleza,CE,Online
+2023-10-10,Leite,Bebidas,4,18.59,74.36,Salvador,BA,Online
+2023-08-24,Óleo,Bebidas,19,42.3,803.6999999999999,São Paulo,SP,Loja Física
+2023-06-27,Pão,Limpeza,16,29.65,474.4,Salvador,BA,Loja Física
+2023-05-29,Pão,Bebidas,7,7.3,51.1,Belo Horizonte,MG,Online
+2023-04-19,Café,Bebidas,19,31.6,600.4,Fortaleza,CE,Online
+2023-06-09,Açúcar,Bebidas,13,30.55,397.15000000000003,Porto Alegre,RS,Loja Física
+2023-01-30,Pão,Alimentos,15,32.8,491.99999999999994,Belo Horizonte,MG,Online
+2023-08-19,Frango,Limpeza,16,47.47,759.52,Brasília,DF,Online
+2023-11-19,Pão,Limpeza,15,21.92,328.8,Porto Alegre,RS,Loja Física
+2023-10-06,Óleo,Limpeza,8,15.49,123.92,Fortaleza,CE,Loja Física
+2023-07-26,Óleo,Alimentos,15,10.07,151.05,Brasília,DF,Loja Física
+2023-02-16,Carne,Alimentos,12,32.77,393.24,Brasília,DF,Online
+2023-06-15,Açúcar,Bebidas,1,31.63,31.63,Curitiba,PR,Online
+2023-08-07,Café,Limpeza,10,32.0,320.0,Belo Horizonte,MG,Loja Física
+2023-07-27,Óleo,Bebidas,5,16.47,82.35,Salvador,BA,Online
+2023-06-20,Óleo,Bebidas,9,45.22,406.98,Rio de Janeiro,RJ,Loja Física
+2023-02-04,Arroz,Bebidas,14,8.81,123.34,Belo Horizonte,MG,Online
+2023-10-14,Leite,Higiene,9,47.68,429.12,Fortaleza,CE,Loja Física
+2023-03-19,Leite,Higiene,16,34.47,551.52,Brasília,DF,Loja Física
+2023-06-21,Frango,Bebidas,8,41.35,330.8,Porto Alegre,RS,Loja Física
+2023-02-15,Carne,Bebidas,1,30.83,30.83,Rio de Janeiro,RJ,Online
+2023-11-11,Leite,Higiene,19,37.32,709.08,Salvador,BA,Online
+2023-10-28,Café,Limpeza,11,28.45,312.95,Rio de Janeiro,RJ,Online
+2023-04-23,Café,Higiene,11,8.22,90.42,Brasília,DF,Loja Física
+2023-10-17,Leite,Bebidas,3,42.48,127.44,Curitiba,PR,Loja Física
+2023-09-25,Frango,Alimentos,19,12.52,237.88,Fortaleza,CE,Loja Física
+2023-02-24,Óleo,Higiene,10,9.32,93.2,Curitiba,PR,Loja Física
+2023-05-02,Farinha,Bebidas,13,42.9,557.6999999999999,Belo Horizonte,MG,Loja Física
+2023-05-06,Pão,Bebidas,17,21.8,370.6,São Paulo,SP,Online
+2023-11-01,Farinha,Bebidas,7,38.75,271.25,São Paulo,SP,Loja Física
+2023-06-18,Óleo,Alimentos,18,7.95,143.1,Fortaleza,CE,Online
+2023-04-22,Óleo,Higiene,12,10.45,125.39999999999999,Fortaleza,CE,Online
+2023-04-16,Açúcar,Limpeza,19,29.43,559.17,Fortaleza,CE,Online
+2023-03-01,Feijão,Alimentos,5,45.26,226.29999999999998,São Paulo,SP,Loja Física
+2023-03-27,Óleo,Limpeza,6,39.38,236.28000000000003,Rio de Janeiro,RJ,Loja Física
+2023-09-29,Leite,Alimentos,10,17.71,177.10000000000002,Fortaleza,CE,Loja Física
+2023-12-01,Frango,Limpeza,7,13.1,91.7,Fortaleza,CE,Online
+2023-03-19,Arroz,Limpeza,14,41.35,578.9,Porto Alegre,RS,Loja Física
+2023-11-02,Açúcar,Alimentos,11,12.68,139.48,Curitiba,PR,Loja Física
+2023-01-27,Feijão,Alimentos,4,38.73,154.92,Curitiba,PR,Online
+2023-05-21,Frango,Bebidas,8,32.26,258.08,Belo Horizonte,MG,Loja Física
+2023-08-26,Arroz,Limpeza,17,47.19,802.23,Belo Horizonte,MG,Online
+2023-07-04,Açúcar,Alimentos,16,7.7,123.2,Porto Alegre,RS,Loja Física
+2023-04-29,Arroz,Higiene,14,18.07,252.98000000000002,Belo Horizonte,MG,Loja Física
+2023-10-30,Açúcar,Bebidas,3,35.51,106.53,São Paulo,SP,Online
+2023-11-20,Pão,Higiene,6,30.11,180.66,Porto Alegre,RS,Online
+2023-04-18,Carne,Limpeza,16,29.23,467.68,Rio de Janeiro,RJ,Online
+2023-04-05,Feijão,Higiene,4,45.84,183.36,Porto Alegre,RS,Loja Física
+2023-06-06,Farinha,Bebidas,9,7.05,63.449999999999996,Brasília,DF,Loja Física
+2023-06-24,Leite,Alimentos,11,18.33,201.63,Fortaleza,CE,Loja Física
+2023-02-06,Leite,Bebidas,15,44.17,662.5500000000001,Salvador,BA,Online
+2023-12-02,Açúcar,Limpeza,6,12.42,74.52,Brasília,DF,Online
+2023-04-26,Leite,Alimentos,10,21.43,214.3,Brasília,DF,Loja Física
+2023-10-19,Café,Alimentos,12,48.5,582.0,São Paulo,SP,Loja Física
+2023-07-09,Pão,Alimentos,4,37.04,148.16,Curitiba,PR,Loja Física
+2023-03-19,Frango,Higiene,3,31.2,93.6,Curitiba,PR,Online
+2023-12-11,Óleo,Bebidas,8,33.6,268.8,Rio de Janeiro,RJ,Online
+2023-01-29,Farinha,Alimentos,7,7.79,54.53,São Paulo,SP,Loja Física
+2023-01-01,Carne,Bebidas,13,45.89,596.57,Porto Alegre,RS,Online
+2023-02-04,Açúcar,Alimentos,15,42.42,636.3000000000001,São Paulo,SP,Loja Física
+2023-06-29,Pão,Higiene,4,43.21,172.84,Fortaleza,CE,Online
+2023-10-18,Arroz,Alimentos,11,5.13,56.43,Belo Horizonte,MG,Online
+2023-12-11,Frango,Limpeza,16,44.18,706.88,Curitiba,PR,Loja Física
+2023-04-12,Açúcar,Limpeza,1,14.86,14.86,Belo Horizonte,MG,Online
+2023-06-11,Leite,Bebidas,3,39.55,118.64999999999999,Curitiba,PR,Loja Física
+2023-11-19,Açúcar,Limpeza,6,26.8,160.8,Rio de Janeiro,RJ,Loja Física
+2023-12-05,Feijão,Higiene,3,16.39,49.17,Brasília,DF,Online
+2023-06-23,Farinha,Bebidas,18,4.31,77.58,Salvador,BA,Online
+2023-10-31,Leite,Bebidas,8,29.95,239.6,São Paulo,SP,Loja Física
+2023-08-05,Açúcar,Bebidas,11,16.61,182.70999999999998,Salvador,BA,Online
+2023-02-06,Feijão,Alimentos,10,38.88,388.8,Porto Alegre,RS,Online
+2023-07-31,Feijão,Higiene,11,27.97,307.66999999999996,Salvador,BA,Online
+2023-04-05,Óleo,Alimentos,10,24.15,241.5,Fortaleza,CE,Loja Física
+2023-08-11,Farinha,Higiene,12,16.06,192.71999999999997,Brasília,DF,Loja Física
+2023-08-10,Açúcar,Higiene,18,2.31,41.58,Belo Horizonte,MG,Loja Física
+2023-03-04,Açúcar,Limpeza,9,39.39,354.51,São Paulo,SP,Online
+2023-08-17,Café,Alimentos,19,16.26,308.94000000000005,São Paulo,SP,Loja Física
+2023-11-08,Leite,Higiene,13,6.21,80.73,Rio de Janeiro,RJ,Loja Física
+2023-04-15,Óleo,Limpeza,2,32.41,64.82,São Paulo,SP,Loja Física
+2023-06-09,Óleo,Alimentos,3,7.56,22.68,Curitiba,PR,Online
+2023-02-27,Frango,Bebidas,2,35.26,70.52,Fortaleza,CE,Online
+2023-01-01,Feijão,Alimentos,3,47.89,143.67000000000002,Belo Horizonte,MG,Loja Física
+2023-07-15,Carne,Alimentos,5,5.82,29.1,São Paulo,SP,Loja Física
+2023-05-26,Leite,Alimentos,8,38.58,308.64,Brasília,DF,Loja Física
+2023-12-11,Leite,Alimentos,9,23.43,210.87,Rio de Janeiro,RJ,Loja Física
+2023-03-04,Carne,Higiene,15,24.53,367.95000000000005,Curitiba,PR,Online
+2023-12-22,Óleo,Alimentos,2,22.15,44.3,Belo Horizonte,MG,Online
+2023-04-14,Feijão,Higiene,3,46.71,140.13,Fortaleza,CE,Loja Física
+2023-06-13,Arroz,Limpeza,12,9.19,110.28,Porto Alegre,RS,Loja Física
+2023-05-18,Farinha,Limpeza,15,36.28,544.2,Belo Horizonte,MG,Loja Física
+2023-07-19,Leite,Higiene,1,33.74,33.74,Belo Horizonte,MG,Loja Física
+2023-09-26,Frango,Higiene,3,10.49,31.47,Brasília,DF,Loja Física
+2023-10-28,Óleo,Higiene,7,39.34,275.38,Porto Alegre,RS,Loja Física
+2023-09-15,Carne,Higiene,7,36.24,253.68,Curitiba,PR,Online
+2023-07-13,Arroz,Alimentos,11,3.63,39.93,Rio de Janeiro,RJ,Loja Física
+2023-11-06,Frango,Bebidas,11,5.0,55.0,São Paulo,SP,Loja Física
+2023-10-29,Açúcar,Limpeza,9,30.67,276.03000000000003,Salvador,BA,Online
+2023-02-01,Pão,Alimentos,18,33.28,599.04,Brasília,DF,Loja Física
+2023-08-09,Farinha,Higiene,1,28.56,28.56,Fortaleza,CE,Loja Física
+2023-04-04,Feijão,Limpeza,12,34.9,418.79999999999995,Brasília,DF,Loja Física
+2023-02-21,Farinha,Limpeza,1,21.92,21.92,Fortaleza,CE,Online
+2023-12-02,Pão,Higiene,1,20.46,20.46,Curitiba,PR,Online
+2023-06-25,Açúcar,Limpeza,8,4.72,37.76,Belo Horizonte,MG,Loja Física
+2023-12-24,Frango,Limpeza,12,40.49,485.88,Rio de Janeiro,RJ,Loja Física
+2023-02-10,Carne,Higiene,16,7.42,118.72,Rio de Janeiro,RJ,Online
+2023-01-23,Feijão,Bebidas,15,28.69,430.35,Fortaleza,CE,Loja Física
+2023-09-23,Café,Alimentos,1,13.98,13.98,Fortaleza,CE,Online
+2023-01-04,Carne,Alimentos,5,2.82,14.1,Brasília,DF,Online
+2023-11-23,Arroz,Bebidas,17,8.47,143.99,Porto Alegre,RS,Loja Física
+2023-02-03,Frango,Alimentos,4,33.53,134.12,Curitiba,PR,Online
+2023-10-16,Óleo,Higiene,10,34.87,348.7,São Paulo,SP,Online
+2023-09-08,Café,Higiene,17,35.51,603.67,Fortaleza,CE,Online
+2023-09-26,Frango,Limpeza,12,20.2,242.39999999999998,Belo Horizonte,MG,Loja Física
+2023-08-30,Pão,Higiene,13,31.62,411.06,Salvador,BA,Online
+2023-05-22,Frango,Bebidas,11,44.78,492.58000000000004,Curitiba,PR,Loja Física
+2023-04-11,Feijão,Bebidas,10,5.16,51.6,São Paulo,SP,Loja Física
+2023-07-20,Carne,Limpeza,17,17.23,292.91,Curitiba,PR,Online
+2023-11-03,Arroz,Higiene,14,35.14,491.96000000000004,Fortaleza,CE,Online
+2023-01-24,Carne,Alimentos,13,3.12,40.56,São Paulo,SP,Loja Física
+2023-06-28,Leite,Higiene,17,46.31,787.27,Porto Alegre,RS,Online
+2023-06-20,Arroz,Higiene,2,26.7,53.4,Rio de Janeiro,RJ,Loja Física
+2023-01-02,Frango,Limpeza,16,10.03,160.48,Porto Alegre,RS,Online
+2023-03-05,Carne,Limpeza,4,21.04,84.16,Curitiba,PR,Online
+2023-03-08,Carne,Bebidas,14,15.68,219.51999999999998,Porto Alegre,RS,Loja Física
+2023-04-06,Pão,Limpeza,1,20.57,20.57,São Paulo,SP,Loja Física
+2023-11-01,Farinha,Higiene,17,49.89,848.13,Rio de Janeiro,RJ,Loja Física
+2023-06-12,Pão,Higiene,14,8.93,125.02,Brasília,DF,Loja Física
+2023-11-25,Carne,Alimentos,8,26.76,214.08,Fortaleza,CE,Online
+2023-09-01,Carne,Bebidas,10,26.71,267.1,São Paulo,SP,Loja Física
+2023-06-19,Pão,Bebidas,16,34.28,548.48,Fortaleza,CE,Loja Física
+2023-05-08,Café,Higiene,12,20.76,249.12,Belo Horizonte,MG,Online
+2023-11-29,Leite,Alimentos,10,13.11,131.1,Belo Horizonte,MG,Loja Física
+2023-09-12,Feijão,Higiene,3,6.77,20.31,Fortaleza,CE,Loja Física
+2023-08-23,Arroz,Bebidas,4,4.57,18.28,Fortaleza,CE,Online
+2023-01-14,Açúcar,Bebidas,4,35.71,142.84,São Paulo,SP,Loja Física
+2023-06-03,Carne,Bebidas,13,4.8,62.4,Salvador,BA,Loja Física
+2023-09-07,Farinha,Higiene,18,7.64,137.51999999999998,Porto Alegre,RS,Online
+2023-11-10,Feijão,Limpeza,15,28.97,434.54999999999995,Fortaleza,CE,Loja Física
+2023-08-04,Carne,Alimentos,4,19.44,77.76,Rio de Janeiro,RJ,Loja Física
+2023-08-17,Feijão,Bebidas,14,36.61,512.54,São Paulo,SP,Online
+2023-01-24,Carne,Higiene,6,47.87,287.21999999999997,Fortaleza,CE,Online
+2023-07-29,Arroz,Higiene,19,44.22,840.18,São Paulo,SP,Loja Física
+2023-09-28,Açúcar,Limpeza,8,33.0,264.0,Fortaleza,CE,Online
+2023-09-10,Frango,Higiene,3,6.53,19.59,Salvador,BA,Loja Física
+2023-05-13,Pão,Limpeza,13,3.51,45.629999999999995,Rio de Janeiro,RJ,Online
+2023-09-30,Leite,Bebidas,17,47.04,799.68,Curitiba,PR,Loja Física
+2023-07-11,Café,Higiene,9,3.14,28.26,Fortaleza,CE,Loja Física
+2023-02-01,Feijão,Higiene,16,15.76,252.16,Curitiba,PR,Loja Física
+2023-06-13,Carne,Alimentos,18,49.22,885.96,São Paulo,SP,Loja Física
+2023-11-02,Frango,Bebidas,3,32.17,96.51,Curitiba,PR,Loja Física
+2023-07-11,Feijão,Limpeza,8,27.12,216.96,Belo Horizonte,MG,Loja Física
+2023-08-05,Carne,Limpeza,10,34.66,346.59999999999997,Brasília,DF,Online
+2023-05-24,Leite,Limpeza,16,6.43,102.88,Brasília,DF,Loja Física
+2023-07-18,Farinha,Limpeza,4,21.37,85.48,Rio de Janeiro,RJ,Loja Física
+2023-03-17,Café,Limpeza,5,42.23,211.14999999999998,Curitiba,PR,Loja Física
+2023-01-16,Pão,Alimentos,3,29.7,89.1,Fortaleza,CE,Loja Física
+2023-09-26,Carne,Limpeza,5,38.86,194.3,Porto Alegre,RS,Online
+2023-12-25,Arroz,Bebidas,19,8.23,156.37,Curitiba,PR,Loja Física
+2023-04-23,Café,Higiene,17,13.22,224.74,Salvador,BA,Online
+2023-08-18,Arroz,Limpeza,19,28.76,546.44,Porto Alegre,RS,Loja Física
+2023-12-31,Pão,Bebidas,15,2.75,41.25,Porto Alegre,RS,Online
+2023-05-20,Café,Higiene,2,14.35,28.7,São Paulo,SP,Loja Física
+2023-06-27,Leite,Higiene,9,21.27,191.43,Rio de Janeiro,RJ,Online
+2023-07-26,Óleo,Higiene,9,40.3,362.7,Rio de Janeiro,RJ,Loja Física
+2023-06-29,Feijão,Limpeza,7,43.66,305.62,Salvador,BA,Loja Física
+2023-02-21,Óleo,Alimentos,3,33.66,100.97999999999999,Rio de Janeiro,RJ,Loja Física
+2023-08-27,Arroz,Alimentos,5,28.7,143.5,Brasília,DF,Online
+2023-05-25,Açúcar,Alimentos,2,33.21,66.42,Salvador,BA,Online
+2023-11-23,Café,Alimentos,17,24.03,408.51,Belo Horizonte,MG,Online
+2023-12-15,Café,Alimentos,15,49.82,747.3,Salvador,BA,Loja Física
+2023-02-13,Arroz,Alimentos,1,13.37,13.37,Rio de Janeiro,RJ,Loja Física
+2023-06-01,Farinha,Higiene,17,10.7,181.89999999999998,Porto Alegre,RS,Online
+2023-12-06,Feijão,Higiene,16,11.89,190.24,Porto Alegre,RS,Online
+2023-10-25,Feijão,Bebidas,16,46.71,747.36,Rio de Janeiro,RJ,Loja Física
+2023-02-10,Óleo,Limpeza,13,12.2,158.6,Salvador,BA,Loja Física
+2023-01-19,Açúcar,Limpeza,19,25.51,484.69000000000005,Porto Alegre,RS,Online
+2023-05-11,Farinha,Bebidas,13,17.15,222.95,Brasília,DF,Online
+2023-11-11,Pão,Higiene,7,27.77,194.39,Brasília,DF,Loja Física
+2023-01-13,Óleo,Bebidas,13,37.5,487.5,Curitiba,PR,Loja Física
+2023-10-18,Leite,Higiene,15,39.4,591.0,Curitiba,PR,Loja Física
+2023-02-28,Pão,Alimentos,5,41.61,208.05,Porto Alegre,RS,Online
+2023-02-15,Farinha,Higiene,18,16.96,305.28000000000003,Porto Alegre,RS,Online
+2023-10-19,Arroz,Alimentos,10,38.32,383.2,Porto Alegre,RS,Loja Física
+2023-11-10,Arroz,Bebidas,8,44.94,359.52,Porto Alegre,RS,Online
+2023-12-25,Óleo,Limpeza,19,42.36,804.84,Belo Horizonte,MG,Online
+2023-09-03,Feijão,Higiene,4,42.06,168.24,Salvador,BA,Online
+2023-05-05,Óleo,Bebidas,1,46.67,46.67,Porto Alegre,RS,Online
+2023-10-16,Carne,Limpeza,8,30.35,242.8,Salvador,BA,Online
+2023-12-11,Farinha,Limpeza,16,8.6,137.6,Salvador,BA,Loja Física
+2023-06-25,Açúcar,Alimentos,14,10.45,146.29999999999998,São Paulo,SP,Loja Física
+2023-11-24,Arroz,Bebidas,12,43.15,517.8,Porto Alegre,RS,Online
+2023-12-09,Frango,Bebidas,18,3.23,58.14,Fortaleza,CE,Online
+2023-10-01,Café,Higiene,3,45.6,136.8,Brasília,DF,Online
+2023-02-14,Feijão,Bebidas,13,37.05,481.65,Fortaleza,CE,Loja Física
+2023-11-12,Pão,Limpeza,16,33.21,531.36,Salvador,BA,Online
+2023-08-17,Carne,Bebidas,17,14.66,249.22,Fortaleza,CE,Online
+2023-03-12,Farinha,Alimentos,19,22.03,418.57000000000005,Salvador,BA,Online
+2023-01-05,Leite,Bebidas,3,22.12,66.36,São Paulo,SP,Loja Física
+2023-07-02,Farinha,Alimentos,16,21.7,347.2,Belo Horizonte,MG,Online
+2023-08-02,Açúcar,Higiene,13,31.19,405.47,Brasília,DF,Online
+2023-08-07,Frango,Higiene,1,7.11,7.11,São Paulo,SP,Online
+2023-11-19,Arroz,Limpeza,3,45.63,136.89000000000001,Salvador,BA,Loja Física
+2023-04-30,Óleo,Higiene,15,24.75,371.25,Rio de Janeiro,RJ,Online
+2023-08-30,Pão,Bebidas,17,29.8,506.6,Brasília,DF,Loja Física
+2023-01-17,Farinha,Limpeza,14,37.27,521.7800000000001,São Paulo,SP,Loja Física
+2023-09-19,Frango,Limpeza,14,10.9,152.6,Porto Alegre,RS,Online
+2023-10-18,Pão,Higiene,8,14.8,118.4,São Paulo,SP,Online
+2023-04-10,Açúcar,Limpeza,4,36.69,146.76,Porto Alegre,RS,Online
+2023-08-13,Café,Higiene,6,26.7,160.2,Brasília,DF,Loja Física
+2023-07-02,Leite,Bebidas,2,27.94,55.88,Brasília,DF,Online
+2023-05-06,Leite,Higiene,8,17.78,142.24,Porto Alegre,RS,Online
+2023-11-05,Leite,Bebidas,6,25.17,151.02,Salvador,BA,Loja Física
+2023-06-05,Leite,Limpeza,7,17.8,124.60000000000001,Belo Horizonte,MG,Loja Física
+2023-05-15,Açúcar,Higiene,3,35.23,105.69,Fortaleza,CE,Online
+2023-05-31,Carne,Alimentos,9,23.11,207.99,Porto Alegre,RS,Online
+2023-06-24,Café,Higiene,17,9.69,164.73,São Paulo,SP,Loja Física
+2023-12-04,Frango,Alimentos,7,21.26,148.82000000000002,Brasília,DF,Online
+2023-05-16,Leite,Bebidas,7,30.66,214.62,Belo Horizonte,MG,Online
+2023-07-29,Arroz,Alimentos,15,7.05,105.75,São Paulo,SP,Online
+2023-11-15,Arroz,Alimentos,8,21.91,175.28,São Paulo,SP,Loja Física
+2023-05-10,Frango,Alimentos,16,4.62,73.92,Salvador,BA,Online
+2023-05-18,Leite,Alimentos,5,16.56,82.8,Brasília,DF,Online
+2023-06-24,Frango,Limpeza,15,13.47,202.05,São Paulo,SP,Loja Física
+2023-01-19,Óleo,Alimentos,19,14.96,284.24,Curitiba,PR,Loja Física
+2023-08-17,Café,Limpeza,9,16.58,149.21999999999997,São Paulo,SP,Online
+2023-07-15,Leite,Bebidas,4,16.25,65.0,Belo Horizonte,MG,Online
+2023-06-08,Frango,Higiene,15,35.89,538.35,Salvador,BA,Online
+2023-11-24,Feijão,Alimentos,11,49.53,544.83,Curitiba,PR,Online
+2023-10-22,Café,Limpeza,8,27.83,222.64,Rio de Janeiro,RJ,Online
+2023-08-07,Farinha,Limpeza,6,47.32,283.92,Fortaleza,CE,Loja Física
+2023-09-11,Leite,Limpeza,18,8.45,152.1,São Paulo,SP,Online
+2023-09-09,Frango,Bebidas,1,16.38,16.38,Fortaleza,CE,Online
+2023-01-04,Açúcar,Bebidas,6,40.3,241.79999999999998,Salvador,BA,Online
+2023-10-20,Arroz,Alimentos,7,44.55,311.84999999999997,Rio de Janeiro,RJ,Loja Física
+2023-11-21,Açúcar,Higiene,11,38.0,418.0,Belo Horizonte,MG,Online
+2023-08-30,Café,Limpeza,5,27.34,136.7,Rio de Janeiro,RJ,Loja Física
+2023-02-26,Leite,Limpeza,1,14.61,14.61,Belo Horizonte,MG,Loja Física
+2023-05-25,Pão,Limpeza,14,41.16,576.24,Rio de Janeiro,RJ,Online
+2023-11-17,Pão,Higiene,13,39.68,515.84,Salvador,BA,Online
+2023-07-07,Carne,Bebidas,17,2.72,46.24,Salvador,BA,Loja Física
+2023-05-01,Farinha,Limpeza,15,49.23,738.4499999999999,Curitiba,PR,Online
+2023-05-22,Feijão,Higiene,15,19.65,294.75,Brasília,DF,Online
+2023-02-02,Farinha,Bebidas,3,11.28,33.839999999999996,Porto Alegre,RS,Online
+2023-02-16,Açúcar,Higiene,7,28.03,196.21,Fortaleza,CE,Online
+2023-01-24,Farinha,Higiene,9,13.89,125.01,Curitiba,PR,Online
+2023-06-12,Frango,Alimentos,7,11.62,81.33999999999999,Salvador,BA,Loja Física
+2023-07-19,Feijão,Alimentos,11,36.98,406.78,Brasília,DF,Online
+2023-08-31,Óleo,Alimentos,7,40.66,284.62,São Paulo,SP,Online
+2023-10-06,Café,Alimentos,16,35.48,567.68,Belo Horizonte,MG,Online
+2023-10-13,Óleo,Bebidas,13,48.8,634.4,Salvador,BA,Loja Física
+2023-02-23,Feijão,Higiene,18,23.44,421.92,Fortaleza,CE,Loja Física
+2023-03-08,Carne,Alimentos,2,22.9,45.8,Rio de Janeiro,RJ,Online
+2023-03-12,Carne,Alimentos,9,34.36,309.24,São Paulo,SP,Loja Física
+2023-04-19,Açúcar,Alimentos,1,46.22,46.22,Rio de Janeiro,RJ,Loja Física
+2023-03-28,Óleo,Limpeza,11,33.02,363.22,Curitiba,PR,Online
+2023-09-13,Açúcar,Alimentos,18,2.47,44.46,Porto Alegre,RS,Loja Física
+2023-11-07,Café,Higiene,6,41.8,250.79999999999998,Brasília,DF,Online
+2023-07-24,Leite,Higiene,14,37.74,528.36,São Paulo,SP,Loja Física
+2023-02-02,Pão,Bebidas,18,45.78,824.04,Rio de Janeiro,RJ,Online
+2023-10-13,Café,Alimentos,3,20.13,60.39,Porto Alegre,RS,Online
+2023-11-23,Pão,Alimentos,4,20.47,81.88,Curitiba,PR,Online
+2023-06-11,Açúcar,Limpeza,11,32.38,356.18,Porto Alegre,RS,Online
+2023-09-10,Carne,Bebidas,14,4.45,62.300000000000004,São Paulo,SP,Online
+2023-07-24,Frango,Higiene,15,15.33,229.95,Belo Horizonte,MG,Online
+2023-12-12,Pão,Bebidas,17,30.5,518.5,Rio de Janeiro,RJ,Online
+2023-06-14,Pão,Alimentos,2,42.04,84.08,Curitiba,PR,Loja Física
+2023-04-30,Óleo,Alimentos,6,48.56,291.36,Rio de Janeiro,RJ,Loja Física
+2023-11-07,Açúcar,Alimentos,14,45.23,633.2199999999999,Belo Horizonte,MG,Online
+2023-08-10,Farinha,Limpeza,1,40.5,40.5,São Paulo,SP,Loja Física
+2023-05-17,Farinha,Higiene,4,5.41,21.64,Porto Alegre,RS,Online
+2023-12-14,Leite,Bebidas,19,3.38,64.22,Brasília,DF,Online
+2023-11-20,Farinha,Alimentos,1,9.4,9.4,São Paulo,SP,Online
+2023-06-02,Arroz,Limpeza,5,11.33,56.65,Curitiba,PR,Loja Física
+2023-12-02,Farinha,Bebidas,6,6.73,40.38,Brasília,DF,Online
+2023-10-18,Pão,Higiene,2,14.28,28.56,Brasília,DF,Loja Física
+2023-11-04,Óleo,Alimentos,10,42.12,421.2,Rio de Janeiro,RJ,Loja Física
+2023-06-19,Feijão,Higiene,10,17.46,174.60000000000002,Porto Alegre,RS,Loja Física
+2023-03-03,Açúcar,Alimentos,1,19.51,19.51,Belo Horizonte,MG,Loja Física
+2023-06-20,Óleo,Bebidas,14,47.98,671.7199999999999,São Paulo,SP,Loja Física
+2023-06-18,Café,Higiene,9,31.79,286.11,Salvador,BA,Online
+2023-01-14,Feijão,Bebidas,7,30.02,210.14,Curitiba,PR,Loja Física
+2023-08-02,Arroz,Alimentos,10,4.9,49.0,São Paulo,SP,Online
+2023-10-04,Leite,Alimentos,19,12.85,244.15,Salvador,BA,Online
+2023-04-08,Frango,Alimentos,9,16.78,151.02,Salvador,BA,Loja Física
+2023-06-30,Açúcar,Higiene,19,13.42,254.98,Curitiba,PR,Online
+2023-02-08,Leite,Bebidas,10,46.32,463.2,Porto Alegre,RS,Loja Física
+2023-11-08,Pão,Bebidas,15,14.38,215.70000000000002,Brasília,DF,Loja Física
+2023-03-28,Pão,Higiene,14,15.28,213.92,Brasília,DF,Loja Física
+2023-10-12,Leite,Higiene,4,48.98,195.92,Fortaleza,CE,Loja Física
+2023-05-08,Carne,Higiene,17,22.21,377.57,Porto Alegre,RS,Loja Física
+2023-02-08,Feijão,Alimentos,7,44.73,313.10999999999996,Curitiba,PR,Online
+2023-10-11,Pão,Alimentos,5,34.34,171.70000000000002,Brasília,DF,Online
+2023-07-25,Feijão,Limpeza,8,2.66,21.28,Salvador,BA,Online
+2023-08-21,Frango,Higiene,3,11.43,34.29,Belo Horizonte,MG,Online
+2023-11-10,Açúcar,Bebidas,9,5.43,48.87,Rio de Janeiro,RJ,Online
+2023-11-13,Arroz,Bebidas,15,11.87,178.04999999999998,Rio de Janeiro,RJ,Loja Física
+2023-03-11,Arroz,Bebidas,15,22.25,333.75,Curitiba,PR,Loja Física
+2023-11-21,Óleo,Limpeza,7,37.12,259.84,Brasília,DF,Loja Física
+2023-02-22,Leite,Limpeza,6,36.53,219.18,Belo Horizonte,MG,Loja Física
+2023-01-31,Feijão,Limpeza,5,42.88,214.4,São Paulo,SP,Loja Física
+2023-11-18,Açúcar,Bebidas,1,26.94,26.94,Rio de Janeiro,RJ,Online
+2023-08-09,Café,Higiene,5,7.06,35.3,Brasília,DF,Online
+2023-04-11,Óleo,Higiene,1,40.7,40.7,Belo Horizonte,MG,Loja Física
+2023-08-07,Farinha,Higiene,1,12.14,12.14,Rio de Janeiro,RJ,Loja Física
+2023-03-25,Feijão,Limpeza,7,33.58,235.06,Curitiba,PR,Loja Física
+2023-03-18,Pão,Alimentos,8,23.15,185.2,Belo Horizonte,MG,Online
+2023-10-16,Farinha,Bebidas,5,4.94,24.700000000000003,Rio de Janeiro,RJ,Loja Física
+2023-03-15,Café,Higiene,9,28.79,259.11,Belo Horizonte,MG,Loja Física
+2023-02-17,Açúcar,Higiene,16,23.0,368.0,São Paulo,SP,Loja Física
+2023-02-26,Arroz,Limpeza,4,48.42,193.68,Porto Alegre,RS,Online
+2023-12-04,Frango,Bebidas,10,2.17,21.7,São Paulo,SP,Loja Física
+2023-06-30,Leite,Limpeza,17,11.24,191.08,Salvador,BA,Online
+2023-06-12,Açúcar,Higiene,7,24.39,170.73000000000002,Rio de Janeiro,RJ,Online
+2023-05-04,Óleo,Higiene,3,13.61,40.83,Fortaleza,CE,Loja Física
+2023-04-24,Arroz,Higiene,13,5.27,68.50999999999999,Salvador,BA,Online
+2023-07-17,Frango,Bebidas,18,20.29,365.21999999999997,São Paulo,SP,Loja Física
+2023-05-23,Óleo,Limpeza,13,9.24,120.12,Porto Alegre,RS,Online
+2023-06-21,Café,Bebidas,1,48.91,48.91,Salvador,BA,Online
+2023-06-06,Óleo,Bebidas,3,32.62,97.85999999999999,Porto Alegre,RS,Loja Física
+2023-04-25,Frango,Limpeza,15,36.64,549.6,Brasília,DF,Loja Física
+2023-07-23,Açúcar,Alimentos,9,43.68,393.12,Fortaleza,CE,Loja Física
+2023-10-08,Farinha,Limpeza,8,9.32,74.56,Curitiba,PR,Online
+2023-01-17,Açúcar,Bebidas,14,26.27,367.78,Porto Alegre,RS,Online
+2023-03-25,Leite,Higiene,2,24.56,49.12,Fortaleza,CE,Loja Física
+2023-11-05,Açúcar,Limpeza,4,24.23,96.92,Fortaleza,CE,Loja Física
+2023-12-20,Carne,Bebidas,10,31.17,311.70000000000005,Brasília,DF,Online
+2023-08-18,Frango,Bebidas,18,34.7,624.6,São Paulo,SP,Loja Física
+2023-10-24,Pão,Limpeza,7,29.93,209.51,Curitiba,PR,Online
+2023-03-03,Óleo,Limpeza,13,32.29,419.77,Curitiba,PR,Online
+2023-06-02,Pão,Bebidas,1,26.09,26.09,Salvador,BA,Online
+2023-05-03,Café,Alimentos,5,44.19,220.95,São Paulo,SP,Loja Física
+2023-10-21,Leite,Higiene,15,19.73,295.95,Porto Alegre,RS,Loja Física
+2023-04-20,Frango,Alimentos,5,44.6,223.0,Porto Alegre,RS,Loja Física
+2023-11-20,Óleo,Limpeza,1,17.11,17.11,Salvador,BA,Loja Física
+2023-05-20,Óleo,Alimentos,3,40.38,121.14000000000001,Salvador,BA,Loja Física
+2023-03-13,Arroz,Alimentos,19,47.96,911.24,São Paulo,SP,Online
+2023-04-29,Café,Bebidas,12,39.56,474.72,Salvador,BA,Loja Física
+2023-02-14,Açúcar,Bebidas,7,16.2,113.39999999999999,Rio de Janeiro,RJ,Online
+2023-09-22,Feijão,Limpeza,7,31.14,217.98000000000002,Belo Horizonte,MG,Online
+2023-05-05,Farinha,Limpeza,9,43.74,393.66,Rio de Janeiro,RJ,Loja Física
+2023-01-27,Farinha,Limpeza,14,18.82,263.48,Salvador,BA,Online
+2023-08-30,Carne,Alimentos,19,45.98,873.6199999999999,Salvador,BA,Loja Física
+2023-07-17,Café,Higiene,11,3.29,36.19,Brasília,DF,Online
+2023-02-08,Farinha,Limpeza,15,30.69,460.35,Belo Horizonte,MG,Loja Física
+2023-03-22,Café,Higiene,8,20.71,165.68,Brasília,DF,Loja Física
+2023-03-31,Leite,Alimentos,19,37.67,715.73,Curitiba,PR,Loja Física
+2023-04-30,Café,Alimentos,17,21.97,373.49,Brasília,DF,Online
+2023-10-12,Frango,Higiene,13,9.28,120.63999999999999,Salvador,BA,Loja Física
+2023-10-19,Açúcar,Bebidas,8,2.78,22.24,Curitiba,PR,Online
+2023-10-02,Óleo,Higiene,15,27.3,409.5,Belo Horizonte,MG,Loja Física
+2023-07-30,Carne,Limpeza,18,17.97,323.46,Rio de Janeiro,RJ,Loja Física
+2023-07-11,Carne,Limpeza,17,15.25,259.25,São Paulo,SP,Loja Física
+2023-11-10,Carne,Alimentos,19,36.93,701.67,Curitiba,PR,Loja Física
+2023-02-20,Leite,Bebidas,1,25.77,25.77,Belo Horizonte,MG,Online
+2023-02-12,Leite,Alimentos,8,13.66,109.28,Belo Horizonte,MG,Loja Física
+2023-02-05,Arroz,Bebidas,14,15.02,210.28,Salvador,BA,Online
+2023-03-15,Açúcar,Bebidas,4,10.28,41.12,Curitiba,PR,Loja Física
+2023-04-14,Feijão,Alimentos,6,30.84,185.04,São Paulo,SP,Loja Física
+2023-07-12,Pão,Limpeza,2,19.41,38.82,Curitiba,PR,Loja Física
+2023-01-17,Carne,Bebidas,10,4.66,46.6,Belo Horizonte,MG,Loja Física
+2023-01-16,Arroz,Higiene,17,23.95,407.15,São Paulo,SP,Loja Física
+2023-03-10,Farinha,Bebidas,10,12.96,129.60000000000002,Fortaleza,CE,Loja Física
+2023-07-26,Leite,Higiene,11,5.82,64.02000000000001,Rio de Janeiro,RJ,Loja Física
+2023-01-15,Feijão,Limpeza,8,11.05,88.4,Belo Horizonte,MG,Loja Física
+2023-03-21,Arroz,Limpeza,14,39.26,549.64,Brasília,DF,Online
+2023-09-23,Farinha,Alimentos,14,42.2,590.8000000000001,Porto Alegre,RS,Online
+2023-09-18,Leite,Limpeza,1,10.74,10.74,Fortaleza,CE,Loja Física
+2023-11-14,Frango,Higiene,9,48.93,440.37,Rio de Janeiro,RJ,Loja Física
+2023-03-05,Leite,Alimentos,5,47.18,235.9,Belo Horizonte,MG,Online
+2023-07-15,Arroz,Bebidas,5,24.27,121.35,Fortaleza,CE,Online
+2023-02-14,Açúcar,Bebidas,19,37.8,718.1999999999999,Porto Alegre,RS,Online
+2023-08-30,Café,Bebidas,15,48.35,725.25,Salvador,BA,Loja Física
+2023-12-25,Feijão,Limpeza,19,19.58,372.02,São Paulo,SP,Online
+2023-02-10,Carne,Alimentos,13,31.76,412.88,Fortaleza,CE,Loja Física
+2023-04-19,Pão,Higiene,1,13.23,13.23,Curitiba,PR,Loja Física
+2023-08-11,Café,Bebidas,5,20.49,102.44999999999999,Rio de Janeiro,RJ,Loja Física
+2023-10-22,Farinha,Higiene,10,24.49,244.89999999999998,São Paulo,SP,Loja Física
+2023-02-20,Café,Alimentos,17,19.49,331.33,Fortaleza,CE,Loja Física
+2023-01-07,Farinha,Limpeza,12,10.47,125.64000000000001,Belo Horizonte,MG,Loja Física
+2023-05-04,Café,Higiene,4,40.39,161.56,São Paulo,SP,Online
+2023-09-05,Arroz,Bebidas,8,33.3,266.4,Porto Alegre,RS,Loja Física
+2023-05-26,Farinha,Limpeza,7,41.2,288.40000000000003,Porto Alegre,RS,Loja Física
+2023-04-11,Açúcar,Higiene,3,15.94,47.82,Belo Horizonte,MG,Loja Física
+2023-07-16,Leite,Higiene,8,18.15,145.2,Salvador,BA,Online
+2023-02-16,Arroz,Limpeza,19,40.51,769.6899999999999,Rio de Janeiro,RJ,Loja Física
+2023-03-20,Óleo,Limpeza,2,15.97,31.94,São Paulo,SP,Online
+2023-10-12,Arroz,Higiene,7,21.44,150.08,Belo Horizonte,MG,Loja Física
+2023-02-05,Arroz,Higiene,3,8.14,24.42,São Paulo,SP,Online
+2023-07-21,Café,Alimentos,9,24.26,218.34,São Paulo,SP,Loja Física
+2023-06-28,Frango,Bebidas,5,30.82,154.1,Porto Alegre,RS,Online
+2023-04-06,Óleo,Higiene,17,16.13,274.21,Rio de Janeiro,RJ,Loja Física
+2023-10-23,Leite,Bebidas,12,26.83,321.96,Salvador,BA,Online
+2023-02-16,Leite,Bebidas,3,11.68,35.04,Curitiba,PR,Online
+2023-01-21,Açúcar,Alimentos,6,49.1,294.6,Fortaleza,CE,Online
+2023-03-01,Arroz,Bebidas,5,42.08,210.39999999999998,Belo Horizonte,MG,Loja Física
+2023-10-16,Feijão,Bebidas,11,43.99,483.89000000000004,Porto Alegre,RS,Loja Física
+2023-01-01,Açúcar,Limpeza,2,9.44,18.88,Salvador,BA,Online
+2023-08-28,Carne,Limpeza,10,31.77,317.7,Rio de Janeiro,RJ,Online
+2023-05-18,Arroz,Bebidas,9,22.36,201.24,Curitiba,PR,Online
+2023-03-13,Carne,Alimentos,12,38.09,457.08000000000004,Curitiba,PR,Online
+2023-06-30,Farinha,Higiene,15,40.97,614.55,Salvador,BA,Loja Física
+2023-10-08,Frango,Alimentos,16,6.78,108.48,Rio de Janeiro,RJ,Online
+2023-11-29,Frango,Limpeza,16,4.86,77.76,São Paulo,SP,Online
+2023-11-15,Pão,Higiene,9,3.01,27.089999999999996,Rio de Janeiro,RJ,Loja Física
+2023-02-22,Açúcar,Bebidas,2,32.83,65.66,Curitiba,PR,Loja Física
+2023-09-28,Feijão,Limpeza,15,47.43,711.45,Fortaleza,CE,Online
+2023-12-27,Café,Limpeza,4,47.25,189.0,Porto Alegre,RS,Online
+2023-06-05,Farinha,Limpeza,18,19.49,350.82,Belo Horizonte,MG,Loja Física
+2023-07-01,Carne,Higiene,12,26.0,312.0,Belo Horizonte,MG,Online
+2023-08-08,Farinha,Alimentos,10,49.31,493.1,Porto Alegre,RS,Online
+2023-07-03,Pão,Alimentos,19,11.18,212.42,Belo Horizonte,MG,Online
+2023-03-19,Carne,Bebidas,3,22.05,66.15,Porto Alegre,RS,Online
+2023-08-23,Farinha,Bebidas,4,12.4,49.6,Curitiba,PR,Online
+2023-11-13,Óleo,Alimentos,3,39.31,117.93,Rio de Janeiro,RJ,Online
+2023-03-03,Frango,Alimentos,14,27.36,383.03999999999996,Salvador,BA,Loja Física
+2023-06-17,Frango,Higiene,12,17.22,206.64,Belo Horizonte,MG,Loja Física
+2023-04-30,Farinha,Alimentos,5,13.85,69.25,Porto Alegre,RS,Online
+2023-05-14,Feijão,Bebidas,18,28.29,509.21999999999997,Curitiba,PR,Loja Física
+2023-03-20,Frango,Higiene,17,22.19,377.23,Salvador,BA,Online
+2023-07-04,Feijão,Alimentos,19,4.74,90.06,São Paulo,SP,Online
+2023-05-07,Óleo,Higiene,5,2.11,10.549999999999999,Fortaleza,CE,Online
+2023-04-08,Frango,Limpeza,4,44.6,178.4,Rio de Janeiro,RJ,Loja Física
+2023-11-13,Carne,Bebidas,3,9.83,29.490000000000002,Fortaleza,CE,Loja Física
+2023-04-23,Óleo,Bebidas,3,29.46,88.38,Salvador,BA,Online
+2023-09-17,Frango,Limpeza,11,39.55,435.04999999999995,Fortaleza,CE,Online
+2023-08-17,Café,Bebidas,1,11.71,11.71,Rio de Janeiro,RJ,Loja Física
+2023-06-09,Óleo,Alimentos,7,32.06,224.42000000000002,Salvador,BA,Online
+2023-03-25,Feijão,Limpeza,10,11.0,110.0,São Paulo,SP,Loja Física
+2023-12-31,Açúcar,Alimentos,2,44.16,88.32,Brasília,DF,Loja Física
+2023-06-16,Café,Higiene,10,2.68,26.8,Fortaleza,CE,Online
+2023-06-30,Frango,Higiene,18,45.13,812.34,Porto Alegre,RS,Online
+2023-02-22,Leite,Bebidas,17,43.9,746.3,Salvador,BA,Loja Física
+2023-01-18,Óleo,Alimentos,5,41.19,205.95,Belo Horizonte,MG,Online
+2023-09-11,Arroz,Bebidas,9,44.84,403.56000000000006,Belo Horizonte,MG,Online
+2023-03-27,Carne,Limpeza,17,43.65,742.05,Curitiba,PR,Online
+2023-10-08,Óleo,Limpeza,6,41.25,247.5,São Paulo,SP,Online
+2023-02-03,Arroz,Alimentos,6,38.19,229.14,Fortaleza,CE,Online
+2023-03-01,Café,Alimentos,13,6.91,89.83,Porto Alegre,RS,Loja Física
+2023-05-24,Carne,Higiene,3,10.34,31.02,Belo Horizonte,MG,Online
+2023-04-13,Carne,Limpeza,9,23.33,209.96999999999997,Brasília,DF,Loja Física
+2023-07-10,Leite,Limpeza,13,29.28,380.64,Porto Alegre,RS,Loja Física
+2023-12-29,Pão,Bebidas,18,28.61,514.98,Brasília,DF,Loja Física
+2023-08-15,Farinha,Higiene,8,11.49,91.92,São Paulo,SP,Online
+2023-12-02,Óleo,Higiene,17,11.56,196.52,Fortaleza,CE,Online
+2023-11-02,Arroz,Bebidas,8,7.69,61.52,Curitiba,PR,Loja Física
+2023-12-25,Arroz,Bebidas,1,16.19,16.19,Curitiba,PR,Loja Física
+2023-09-23,Pão,Bebidas,14,44.18,618.52,Brasília,DF,Online
+2023-03-14,Leite,Limpeza,19,19.78,375.82000000000005,Fortaleza,CE,Loja Física
+2023-03-31,Leite,Limpeza,13,24.28,315.64,Fortaleza,CE,Online
+2023-10-22,Farinha,Alimentos,1,2.01,2.01,São Paulo,SP,Loja Física
+2023-06-16,Arroz,Alimentos,1,3.21,3.21,Brasília,DF,Loja Física
+2023-01-02,Leite,Higiene,16,6.53,104.48,Porto Alegre,RS,Online
+2023-03-02,Café,Bebidas,11,5.41,59.510000000000005,Salvador,BA,Online
+2023-04-25,Frango,Alimentos,12,16.14,193.68,Salvador,BA,Online
+2023-06-05,Feijão,Higiene,16,40.91,654.56,Rio de Janeiro,RJ,Loja Física
+2023-02-06,Carne,Alimentos,15,44.24,663.6,Salvador,BA,Loja Física
+2023-08-13,Leite,Higiene,7,37.38,261.66,São Paulo,SP,Loja Física
+2023-03-08,Farinha,Bebidas,4,8.09,32.36,Salvador,BA,Online
+2023-05-15,Café,Limpeza,16,17.64,282.24,Rio de Janeiro,RJ,Loja Física
+2023-11-20,Feijão,Alimentos,12,43.23,518.76,São Paulo,SP,Online
+2023-03-30,Feijão,Bebidas,17,8.33,141.61,Belo Horizonte,MG,Loja Física
+2023-01-19,Feijão,Alimentos,9,3.26,29.339999999999996,São Paulo,SP,Loja Física
+2023-01-25,Café,Bebidas,13,32.86,427.18,Curitiba,PR,Online
+2023-03-05,Leite,Higiene,6,40.82,244.92000000000002,Belo Horizonte,MG,Loja Física
+2023-02-09,Feijão,Alimentos,18,29.99,539.8199999999999,Salvador,BA,Loja Física
+2023-11-11,Pão,Alimentos,19,25.21,478.99,Porto Alegre,RS,Online
+2023-06-11,Frango,Higiene,8,14.72,117.76,Belo Horizonte,MG,Loja Física
+2023-04-17,Feijão,Limpeza,5,24.01,120.05000000000001,Rio de Janeiro,RJ,Loja Física
+2023-06-18,Carne,Higiene,11,9.6,105.6,Curitiba,PR,Loja Física
+2023-03-20,Arroz,Limpeza,16,40.47,647.52,Curitiba,PR,Loja Física
+2023-10-19,Feijão,Alimentos,2,25.38,50.76,Porto Alegre,RS,Online
+2023-06-29,Frango,Bebidas,14,36.36,509.03999999999996,Belo Horizonte,MG,Loja Física
+2023-03-11,Feijão,Bebidas,6,36.82,220.92000000000002,Salvador,BA,Online
+2023-04-20,Carne,Alimentos,8,21.35,170.8,Belo Horizonte,MG,Online
+2023-12-17,Feijão,Higiene,11,7.59,83.49,Curitiba,PR,Online
+2023-07-31,Farinha,Higiene,11,17.86,196.45999999999998,Belo Horizonte,MG,Loja Física
+2023-09-25,Café,Alimentos,4,24.6,98.4,Fortaleza,CE,Loja Física
+2023-01-27,Carne,Limpeza,12,47.16,565.92,Fortaleza,CE,Loja Física
+2023-05-14,Feijão,Higiene,17,11.82,200.94,Belo Horizonte,MG,Online
+2023-11-30,Leite,Bebidas,13,36.91,479.8299999999999,Fortaleza,CE,Online
+2023-12-27,Feijão,Higiene,10,13.39,133.9,Curitiba,PR,Loja Física
+2023-12-27,Arroz,Bebidas,16,19.09,305.44,Porto Alegre,RS,Online
+2023-05-31,Leite,Alimentos,5,38.97,194.85,Brasília,DF,Loja Física
+2023-07-16,Feijão,Limpeza,18,44.75,805.5,Fortaleza,CE,Online
+2023-12-08,Açúcar,Limpeza,13,48.15,625.9499999999999,São Paulo,SP,Loja Física
+2023-08-20,Café,Higiene,14,31.65,443.09999999999997,Rio de Janeiro,RJ,Online
+2023-08-22,Carne,Bebidas,8,39.2,313.6,Salvador,BA,Online
+2023-06-04,Arroz,Limpeza,13,12.99,168.87,Curitiba,PR,Online
+2023-08-28,Frango,Limpeza,11,14.28,157.07999999999998,Belo Horizonte,MG,Online
+2023-10-29,Pão,Alimentos,13,18.91,245.83,Curitiba,PR,Loja Física
+2023-08-31,Óleo,Limpeza,16,17.25,276.0,São Paulo,SP,Loja Física
+2023-04-25,Óleo,Alimentos,4,42.85,171.4,Belo Horizonte,MG,Online
+2023-04-03,Feijão,Higiene,16,24.65,394.4,Rio de Janeiro,RJ,Online
+2023-05-27,Arroz,Bebidas,16,22.15,354.4,Rio de Janeiro,RJ,Loja Física
+2023-07-20,Açúcar,Bebidas,6,25.85,155.10000000000002,São Paulo,SP,Online
+2023-12-27,Arroz,Bebidas,9,4.35,39.15,Salvador,BA,Online
+2023-05-03,Óleo,Bebidas,17,26.92,457.64000000000004,Brasília,DF,Online
+2023-11-05,Arroz,Limpeza,3,38.18,114.53999999999999,Rio de Janeiro,RJ,Online
+2023-12-25,Café,Limpeza,4,39.82,159.28,Porto Alegre,RS,Loja Física
+2023-04-27,Feijão,Bebidas,16,17.99,287.84,São Paulo,SP,Online
+2023-11-28,Feijão,Limpeza,9,10.57,95.13,Fortaleza,CE,Online
+2023-08-02,Carne,Bebidas,9,17.97,161.73,Fortaleza,CE,Online
+2023-03-01,Pão,Higiene,3,7.9,23.700000000000003,Belo Horizonte,MG,Online
+2023-01-12,Feijão,Limpeza,3,28.99,86.97,Salvador,BA,Online
+2023-11-19,Arroz,Limpeza,13,39.91,518.8299999999999,Porto Alegre,RS,Loja Física
+2023-02-08,Carne,Alimentos,15,24.73,370.95,Salvador,BA,Loja Física
+2023-05-07,Carne,Alimentos,17,48.3,821.0999999999999,Porto Alegre,RS,Online
+2023-05-22,Leite,Bebidas,12,10.97,131.64000000000001,Porto Alegre,RS,Loja Física
+2023-10-13,Pão,Alimentos,12,21.69,260.28000000000003,Fortaleza,CE,Loja Física
+2023-03-02,Óleo,Higiene,5,18.32,91.6,Fortaleza,CE,Loja Física
+2023-11-16,Pão,Bebidas,1,48.41,48.41,Salvador,BA,Online
+2023-01-27,Frango,Limpeza,12,15.24,182.88,São Paulo,SP,Loja Física
+2023-08-25,Pão,Limpeza,1,23.17,23.17,Rio de Janeiro,RJ,Loja Física
+2023-03-01,Carne,Alimentos,7,35.38,247.66000000000003,Salvador,BA,Loja Física
+2023-11-24,Óleo,Limpeza,15,19.64,294.6,Belo Horizonte,MG,Online
+2023-11-07,Açúcar,Bebidas,12,4.26,51.12,Salvador,BA,Online
+2023-03-31,Café,Alimentos,1,4.96,4.96,Salvador,BA,Online
+2023-09-20,Óleo,Alimentos,12,22.52,270.24,Curitiba,PR,Loja Física
+2023-11-10,Leite,Bebidas,1,37.62,37.62,Brasília,DF,Online
+2023-08-08,Feijão,Bebidas,15,42.54,638.1,Brasília,DF,Loja Física
+2023-09-23,Leite,Alimentos,11,27.57,303.27,Belo Horizonte,MG,Online
+2023-11-22,Carne,Bebidas,12,46.52,558.24,Belo Horizonte,MG,Loja Física
+2023-10-11,Pão,Bebidas,15,5.98,89.7,São Paulo,SP,Online
+2023-02-22,Açúcar,Bebidas,13,49.47,643.11,Belo Horizonte,MG,Online
+2023-08-05,Açúcar,Alimentos,1,20.2,20.2,Porto Alegre,RS,Online
+2023-04-13,Arroz,Higiene,13,34.17,444.21000000000004,São Paulo,SP,Online
+2023-01-28,Arroz,Bebidas,5,18.12,90.60000000000001,Salvador,BA,Loja Física
+2023-05-31,Feijão,Bebidas,6,13.28,79.67999999999999,Salvador,BA,Online
+2023-04-02,Feijão,Limpeza,7,30.36,212.51999999999998,Fortaleza,CE,Online
+2023-08-16,Feijão,Bebidas,17,2.86,48.62,Fortaleza,CE,Online
+2023-09-02,Leite,Limpeza,18,8.38,150.84,Rio de Janeiro,RJ,Loja Física
+2023-03-24,Açúcar,Higiene,7,39.36,275.52,Porto Alegre,RS,Online
+2023-01-08,Farinha,Bebidas,4,43.14,172.56,Porto Alegre,RS,Online
+2023-04-22,Açúcar,Alimentos,5,35.86,179.3,Belo Horizonte,MG,Loja Física
+2023-10-05,Pão,Alimentos,18,32.88,591.84,São Paulo,SP,Loja Física
+2023-10-01,Café,Higiene,16,21.29,340.64,Brasília,DF,Online
+2023-12-16,Pão,Alimentos,5,21.89,109.45,Salvador,BA,Online
+2023-11-27,Frango,Alimentos,11,19.14,210.54000000000002,Belo Horizonte,MG,Loja Física
+2023-11-17,Arroz,Alimentos,16,37.87,605.92,Salvador,BA,Online
+2023-05-16,Feijão,Higiene,16,39.74,635.84,São Paulo,SP,Loja Física
+2023-03-03,Açúcar,Higiene,19,32.26,612.9399999999999,Fortaleza,CE,Online
+2023-10-10,Frango,Higiene,13,42.36,550.68,São Paulo,SP,Online
+2023-06-12,Carne,Limpeza,19,11.38,216.22000000000003,Curitiba,PR,Loja Física
+2023-07-15,Óleo,Bebidas,9,12.92,116.28,Belo Horizonte,MG,Online
+2023-04-09,Frango,Alimentos,13,6.9,89.7,Brasília,DF,Loja Física
+2023-03-07,Açúcar,Alimentos,8,14.55,116.4,Salvador,BA,Online
+2023-07-03,Leite,Limpeza,15,49.27,739.0500000000001,Belo Horizonte,MG,Online
+2023-10-17,Feijão,Limpeza,5,33.74,168.70000000000002,Curitiba,PR,Online
+2023-10-19,Açúcar,Alimentos,6,48.92,293.52,Salvador,BA,Loja Física
+2023-06-27,Leite,Bebidas,6,32.86,197.16,São Paulo,SP,Online
+2023-02-22,Feijão,Limpeza,11,8.45,92.94999999999999,Curitiba,PR,Loja Física
+2023-12-28,Arroz,Limpeza,1,29.97,29.97,São Paulo,SP,Online
+2023-08-04,Leite,Limpeza,9,17.06,153.54,Porto Alegre,RS,Loja Física
+2023-11-03,Carne,Alimentos,4,20.97,83.88,Fortaleza,CE,Loja Física
+2023-03-20,Frango,Limpeza,11,39.75,437.25,Brasília,DF,Online
+2023-05-02,Açúcar,Limpeza,16,14.52,232.32,Salvador,BA,Online
+2023-03-06,Farinha,Limpeza,9,7.27,65.42999999999999,Curitiba,PR,Online
+2023-09-23,Óleo,Higiene,3,20.86,62.58,Salvador,BA,Loja Física
+2023-06-01,Café,Higiene,2,29.25,58.5,Porto Alegre,RS,Loja Física
+2023-03-02,Café,Higiene,1,18.33,18.33,Porto Alegre,RS,Online
+2023-12-28,Frango,Limpeza,7,5.93,41.51,Curitiba,PR,Loja Física
+2023-12-31,Leite,Alimentos,16,32.07,513.12,Brasília,DF,Loja Física
+2023-10-24,Óleo,Higiene,17,18.96,322.32,Porto Alegre,RS,Loja Física
+2023-10-10,Óleo,Higiene,12,27.8,333.6,Salvador,BA,Loja Física
+2023-05-22,Leite,Bebidas,12,13.1,157.2,Porto Alegre,RS,Online
+2023-07-10,Carne,Higiene,13,28.22,366.86,Rio de Janeiro,RJ,Online
+2023-06-25,Leite,Higiene,3,43.93,131.79,Porto Alegre,RS,Online
+2023-07-18,Arroz,Limpeza,15,31.1,466.5,Brasília,DF,Loja Física
+2023-04-12,Açúcar,Alimentos,9,26.28,236.52,Rio de Janeiro,RJ,Online
+2023-10-20,Carne,Higiene,8,44.14,353.12,Brasília,DF,Loja Física
+2023-01-11,Café,Higiene,15,29.75,446.25,Fortaleza,CE,Online
+2023-02-20,Leite,Limpeza,4,8.89,35.56,Fortaleza,CE,Online
+2023-06-04,Feijão,Bebidas,17,8.63,146.71,Porto Alegre,RS,Online
+2023-11-03,Carne,Limpeza,9,25.33,227.96999999999997,Brasília,DF,Online
+2023-04-23,Pão,Alimentos,18,16.48,296.64,Brasília,DF,Online
+2023-10-25,Óleo,Bebidas,6,44.82,268.92,Salvador,BA,Loja Física
+2023-10-21,Óleo,Higiene,5,37.18,185.9,Porto Alegre,RS,Loja Física
+2023-08-16,Açúcar,Limpeza,3,4.58,13.74,Curitiba,PR,Online
+2023-07-03,Feijão,Alimentos,6,48.64,291.84000000000003,Fortaleza,CE,Online
+2023-06-17,Pão,Higiene,3,33.83,101.49,Belo Horizonte,MG,Loja Física
+2023-05-31,Farinha,Bebidas,19,6.34,120.46,Belo Horizonte,MG,Online
+2023-01-09,Frango,Alimentos,14,12.4,173.6,Fortaleza,CE,Online
+2023-07-02,Arroz,Bebidas,12,10.29,123.47999999999999,Brasília,DF,Online
+2023-04-10,Carne,Alimentos,18,12.13,218.34,Fortaleza,CE,Loja Física
+2023-10-15,Café,Higiene,6,8.22,49.32000000000001,Curitiba,PR,Online
+2023-06-08,Carne,Limpeza,10,16.76,167.60000000000002,Belo Horizonte,MG,Loja Física
+2023-01-05,Feijão,Higiene,17,6.93,117.81,Fortaleza,CE,Loja Física
+2023-06-16,Carne,Bebidas,5,44.8,224.0,Curitiba,PR,Online
+2023-12-20,Farinha,Limpeza,12,39.01,468.12,Salvador,BA,Online
+2023-06-05,Pão,Bebidas,14,49.03,686.4200000000001,Fortaleza,CE,Online
+2023-05-19,Café,Alimentos,18,21.5,387.0,São Paulo,SP,Online
+2023-04-01,Pão,Higiene,9,26.16,235.44,Porto Alegre,RS,Online
+2023-07-23,Café,Alimentos,17,29.6,503.20000000000005,Salvador,BA,Online
+2023-07-08,Pão,Bebidas,10,47.7,477.0,Belo Horizonte,MG,Loja Física
+2023-09-25,Óleo,Alimentos,4,27.09,108.36,Salvador,BA,Online
+2023-12-27,Feijão,Limpeza,17,33.42,568.14,Belo Horizonte,MG,Online
+2023-08-17,Leite,Higiene,8,32.02,256.16,Brasília,DF,Loja Física
+2023-06-04,Frango,Limpeza,3,36.72,110.16,Fortaleza,CE,Online
+2023-06-08,Óleo,Bebidas,16,3.83,61.28,Belo Horizonte,MG,Online
+2023-07-12,Arroz,Bebidas,19,31.88,605.72,Porto Alegre,RS,Loja Física
+2023-07-29,Café,Bebidas,12,47.18,566.16,Porto Alegre,RS,Loja Física
+2023-11-28,Óleo,Alimentos,13,31.74,412.62,Curitiba,PR,Online
+2023-05-07,Café,Alimentos,9,32.36,291.24,Belo Horizonte,MG,Online
+2023-05-21,Leite,Limpeza,6,17.37,104.22,Salvador,BA,Online
+2023-04-23,Frango,Bebidas,4,29.1,116.4,São Paulo,SP,Online
+2023-10-07,Leite,Bebidas,6,37.36,224.16,Rio de Janeiro,RJ,Loja Física
+2023-07-12,Açúcar,Limpeza,8,30.34,242.72,Rio de Janeiro,RJ,Online
+2023-10-22,Açúcar,Alimentos,17,19.7,334.9,Porto Alegre,RS,Loja Física
+2023-10-31,Leite,Higiene,15,29.42,441.3,Salvador,BA,Loja Física
+2023-11-25,Pão,Limpeza,15,29.32,439.8,Fortaleza,CE,Online
+2023-09-12,Arroz,Higiene,6,4.98,29.880000000000003,Salvador,BA,Loja Física
+2023-01-29,Café,Bebidas,8,31.9,255.2,Salvador,BA,Online
+2023-11-03,Leite,Bebidas,6,43.69,262.14,Salvador,BA,Loja Física
+2023-10-03,Carne,Higiene,5,38.61,193.05,Belo Horizonte,MG,Loja Física
+2023-08-14,Frango,Higiene,12,13.65,163.8,Brasília,DF,Online
+2023-07-06,Farinha,Alimentos,17,21.8,370.6,Salvador,BA,Online
+2023-09-17,Frango,Higiene,5,10.49,52.45,Rio de Janeiro,RJ,Online
+2023-05-27,Café,Alimentos,10,18.75,187.5,Rio de Janeiro,RJ,Online
+2023-03-30,Frango,Alimentos,3,30.21,90.63,Brasília,DF,Online
+2023-08-04,Pão,Alimentos,17,13.17,223.89,Salvador,BA,Loja Física
+2023-02-11,Carne,Higiene,3,41.27,123.81,Porto Alegre,RS,Online
+2023-06-21,Feijão,Bebidas,11,22.79,250.69,Porto Alegre,RS,Loja Física
+2023-01-29,Café,Alimentos,14,43.69,611.66,Belo Horizonte,MG,Loja Física
+2023-04-19,Pão,Bebidas,8,2.24,17.92,São Paulo,SP,Loja Física
+2023-10-20,Café,Alimentos,7,5.74,40.18,Belo Horizonte,MG,Loja Física
+2023-01-05,Café,Higiene,16,49.54,792.64,Curitiba,PR,Loja Física
+2023-06-20,Farinha,Bebidas,15,36.25,543.75,Rio de Janeiro,RJ,Online
+2023-09-03,Arroz,Bebidas,3,31.1,93.30000000000001,Salvador,BA,Loja Física
+2023-05-01,Farinha,Alimentos,18,24.68,444.24,Porto Alegre,RS,Loja Física
+2023-01-06,Pão,Limpeza,3,12.04,36.12,Salvador,BA,Online
+2023-01-31,Arroz,Bebidas,14,42.5,595.0,Salvador,BA,Loja Física
+2023-07-20,Açúcar,Limpeza,3,17.95,53.849999999999994,Salvador,BA,Loja Física
+2023-06-16,Leite,Limpeza,3,29.38,88.14,Curitiba,PR,Online
+2023-01-05,Pão,Higiene,12,7.15,85.80000000000001,Salvador,BA,Online
+2023-07-10,Farinha,Higiene,15,12.48,187.20000000000002,Brasília,DF,Online
+2023-09-29,Pão,Higiene,5,24.96,124.80000000000001,São Paulo,SP,Loja Física
+2023-07-31,Carne,Bebidas,2,46.55,93.1,Salvador,BA,Loja Física
+2023-07-20,Farinha,Higiene,5,10.42,52.1,Rio de Janeiro,RJ,Loja Física
+2023-04-21,Pão,Limpeza,17,6.88,116.96,Belo Horizonte,MG,Loja Física
+2023-09-20,Açúcar,Alimentos,17,43.88,745.96,São Paulo,SP,Online
+2023-10-31,Óleo,Higiene,14,17.13,239.82,Brasília,DF,Online
+2023-03-23,Frango,Higiene,6,27.03,162.18,Curitiba,PR,Online
+2023-04-18,Carne,Bebidas,11,33.18,364.98,São Paulo,SP,Loja Física
+2023-05-16,Carne,Alimentos,19,9.49,180.31,Salvador,BA,Loja Física
+2023-01-11,Pão,Alimentos,1,47.93,47.93,Salvador,BA,Online
+2023-11-24,Feijão,Bebidas,17,29.11,494.87,Rio de Janeiro,RJ,Online
+2023-01-19,Arroz,Higiene,12,42.5,510.0,Curitiba,PR,Online
+2023-09-27,Arroz,Limpeza,11,27.47,302.16999999999996,Porto Alegre,RS,Loja Física
+2023-03-21,Arroz,Alimentos,7,29.6,207.20000000000002,Salvador,BA,Online
+2023-08-09,Farinha,Higiene,14,6.33,88.62,Belo Horizonte,MG,Loja Física
+2023-01-21,Café,Bebidas,14,17.77,248.78,São Paulo,SP,Online
+2023-12-04,Óleo,Bebidas,13,3.96,51.48,Curitiba,PR,Loja Física
+2023-11-02,Arroz,Higiene,15,17.8,267.0,Curitiba,PR,Loja Física
+2023-02-25,Carne,Higiene,3,26.82,80.46000000000001,Belo Horizonte,MG,Online
+2023-06-14,Carne,Limpeza,3,38.84,116.52000000000001,Brasília,DF,Online
+2023-07-05,Óleo,Higiene,14,10.19,142.66,Rio de Janeiro,RJ,Loja Física
+2023-10-31,Óleo,Bebidas,17,43.49,739.33,Fortaleza,CE,Online
+2023-07-31,Leite,Bebidas,14,13.24,185.36,São Paulo,SP,Loja Física
+2023-03-02,Carne,Higiene,1,39.1,39.1,Curitiba,PR,Online
+2023-02-11,Café,Bebidas,17,32.48,552.16,Porto Alegre,RS,Loja Física
+2023-04-12,Carne,Higiene,19,27.89,529.91,Belo Horizonte,MG,Online
+2023-12-10,Pão,Bebidas,19,47.99,911.8100000000001,Salvador,BA,Loja Física
+2023-01-09,Frango,Higiene,8,17.98,143.84,Belo Horizonte,MG,Loja Física
+2023-11-25,Frango,Higiene,9,17.71,159.39000000000001,Rio de Janeiro,RJ,Loja Física
+2023-11-23,Açúcar,Alimentos,8,49.75,398.0,Porto Alegre,RS,Loja Física
+2023-01-15,Pão,Alimentos,7,33.06,231.42000000000002,Fortaleza,CE,Loja Física
+2023-03-26,Carne,Alimentos,6,30.04,180.24,Fortaleza,CE,Loja Física
+2023-07-23,Frango,Bebidas,7,42.61,298.27,Brasília,DF,Online
+2023-03-19,Feijão,Limpeza,14,44.11,617.54,São Paulo,SP,Online
+2023-04-05,Feijão,Limpeza,16,28.11,449.76,São Paulo,SP,Loja Física
+2023-08-28,Carne,Limpeza,9,31.81,286.28999999999996,Brasília,DF,Loja Física
+2023-07-31,Café,Higiene,16,8.29,132.64,Curitiba,PR,Online
+2023-07-07,Café,Alimentos,12,14.96,179.52,Fortaleza,CE,Online
+2023-09-12,Açúcar,Alimentos,12,27.32,327.84000000000003,Brasília,DF,Online
+2023-10-11,Pão,Limpeza,8,9.12,72.96,Fortaleza,CE,Loja Física
+2023-12-21,Açúcar,Higiene,12,29.59,355.08,São Paulo,SP,Online
+2023-05-14,Pão,Limpeza,1,7.14,7.14,Curitiba,PR,Online
+2023-09-15,Arroz,Alimentos,13,49.58,644.54,Curitiba,PR,Online
+2023-12-31,Pão,Bebidas,3,15.0,45.0,Porto Alegre,RS,Online
+2023-07-24,Óleo,Limpeza,9,34.88,313.92,Fortaleza,CE,Loja Física
+2023-11-24,Açúcar,Alimentos,13,27.12,352.56,Fortaleza,CE,Loja Física
+2023-06-27,Carne,Bebidas,8,12.75,102.0,Rio de Janeiro,RJ,Loja Física
+2023-03-17,Pão,Limpeza,19,33.41,634.79,São Paulo,SP,Online
+2023-01-29,Carne,Limpeza,6,29.34,176.04,Brasília,DF,Loja Física
+2023-04-20,Carne,Bebidas,15,11.05,165.75,Rio de Janeiro,RJ,Online
+2023-11-21,Feijão,Limpeza,12,13.38,160.56,Rio de Janeiro,RJ,Online
+2023-03-29,Óleo,Limpeza,19,7.44,141.36,Porto Alegre,RS,Online
+2023-09-04,Leite,Higiene,11,18.43,202.73,Rio de Janeiro,RJ,Loja Física
+2023-03-22,Carne,Higiene,3,25.89,77.67,Curitiba,PR,Online
+2023-12-28,Feijão,Limpeza,7,4.65,32.550000000000004,Rio de Janeiro,RJ,Loja Física
+2023-05-20,Café,Limpeza,13,20.2,262.59999999999997,Fortaleza,CE,Online
+2023-09-26,Feijão,Alimentos,8,17.43,139.44,Rio de Janeiro,RJ,Loja Física
+2023-10-08,Arroz,Alimentos,16,18.63,298.08,Belo Horizonte,MG,Online
+2023-09-20,Carne,Limpeza,2,35.74,71.48,Belo Horizonte,MG,Loja Física
+2023-01-28,Farinha,Limpeza,4,9.46,37.84,Fortaleza,CE,Loja Física
+2023-07-10,Carne,Higiene,11,36.01,396.10999999999996,Fortaleza,CE,Loja Física
+2023-05-19,Café,Limpeza,1,40.25,40.25,São Paulo,SP,Loja Física
+2023-06-25,Feijão,Alimentos,11,31.06,341.65999999999997,Curitiba,PR,Online
+2023-11-04,Arroz,Bebidas,12,24.43,293.15999999999997,Rio de Janeiro,RJ,Loja Física
+2023-07-04,Arroz,Higiene,6,18.57,111.42,Belo Horizonte,MG,Online
+2023-02-20,Leite,Higiene,2,19.52,39.04,Rio de Janeiro,RJ,Online
+2023-05-23,Pão,Limpeza,4,26.54,106.16,Belo Horizonte,MG,Online
+2023-07-29,Óleo,Higiene,15,34.23,513.4499999999999,Rio de Janeiro,RJ,Loja Física
+2023-03-14,Farinha,Higiene,10,43.97,439.7,Fortaleza,CE,Online
+2023-09-28,Pão,Higiene,1,28.04,28.04,São Paulo,SP,Loja Física
+2023-05-17,Farinha,Higiene,15,29.52,442.8,Curitiba,PR,Loja Física
+2023-09-23,Farinha,Bebidas,6,29.15,174.89999999999998,Brasília,DF,Online
+2023-06-12,Feijão,Limpeza,9,14.76,132.84,Brasília,DF,Online
+2023-05-04,Café,Bebidas,15,34.99,524.85,Porto Alegre,RS,Loja Física
+2023-11-05,Farinha,Limpeza,13,28.35,368.55,São Paulo,SP,Online
+2023-08-08,Óleo,Higiene,11,39.37,433.07,Rio de Janeiro,RJ,Loja Física
+2023-03-14,Café,Higiene,11,15.07,165.77,Porto Alegre,RS,Loja Física
+2023-05-22,Café,Bebidas,10,9.81,98.10000000000001,Curitiba,PR,Loja Física
+2023-03-13,Óleo,Higiene,19,36.17,687.23,Porto Alegre,RS,Online
+2023-02-17,Frango,Limpeza,19,3.25,61.75,Brasília,DF,Loja Física
+2023-09-19,Café,Limpeza,13,26.68,346.84,Belo Horizonte,MG,Online
+2023-11-04,Arroz,Alimentos,19,6.7,127.3,Fortaleza,CE,Online
+2023-11-06,Frango,Bebidas,12,40.59,487.08000000000004,Salvador,BA,Loja Física
+2023-03-04,Frango,Bebidas,13,22.29,289.77,Rio de Janeiro,RJ,Online
+2023-07-05,Feijão,Bebidas,13,16.82,218.66,Belo Horizonte,MG,Loja Física
+2023-09-08,Leite,Higiene,15,10.47,157.05,São Paulo,SP,Online
+2023-03-23,Óleo,Higiene,4,38.69,154.76,Porto Alegre,RS,Online
+2023-10-30,Pão,Bebidas,4,17.38,69.52,Curitiba,PR,Loja Física
+2023-07-29,Arroz,Higiene,5,43.3,216.5,São Paulo,SP,Online
+2023-03-05,Pão,Limpeza,3,18.29,54.87,Curitiba,PR,Loja Física
+2023-05-07,Pão,Higiene,9,20.9,188.1,Fortaleza,CE,Online
+2023-01-13,Açúcar,Bebidas,3,41.55,124.64999999999999,Curitiba,PR,Online
+2023-09-28,Pão,Bebidas,7,10.4,72.8,Brasília,DF,Online
+2023-10-05,Óleo,Higiene,17,30.61,520.37,Belo Horizonte,MG,Online
+2023-01-27,Farinha,Limpeza,14,19.28,269.92,Fortaleza,CE,Loja Física
+2023-06-17,Pão,Alimentos,9,49.81,448.29,Rio de Janeiro,RJ,Online
+2023-05-19,Feijão,Bebidas,16,20.57,329.12,Rio de Janeiro,RJ,Loja Física
+2023-07-11,Carne,Limpeza,12,10.35,124.19999999999999,Rio de Janeiro,RJ,Online
+2023-11-09,Carne,Limpeza,19,9.89,187.91000000000003,Fortaleza,CE,Online
+2023-01-17,Feijão,Higiene,7,28.4,198.79999999999998,Rio de Janeiro,RJ,Loja Física
+2023-06-27,Arroz,Limpeza,4,28.2,112.8,Porto Alegre,RS,Loja Física
+2023-07-31,Pão,Higiene,11,6.08,66.88,Porto Alegre,RS,Loja Física
+2023-07-15,Carne,Bebidas,11,22.33,245.63,Curitiba,PR,Loja Física
+2023-12-31,Leite,Higiene,7,39.22,274.53999999999996,Salvador,BA,Online
+2023-04-12,Leite,Limpeza,13,42.54,553.02,Curitiba,PR,Loja Física
+2023-09-13,Leite,Alimentos,14,32.34,452.76000000000005,Curitiba,PR,Online
+2023-05-11,Farinha,Higiene,1,15.27,15.27,Porto Alegre,RS,Online
+2023-10-29,Feijão,Higiene,8,26.5,212.0,Belo Horizonte,MG,Online
+2023-10-25,Café,Limpeza,7,36.47,255.29,Belo Horizonte,MG,Loja Física
+2023-08-17,Feijão,Alimentos,6,12.13,72.78,Belo Horizonte,MG,Loja Física
+2023-12-22,Café,Limpeza,5,33.19,165.95,Curitiba,PR,Online
+2023-06-22,Arroz,Limpeza,7,35.5,248.5,São Paulo,SP,Loja Física
+2023-10-05,Arroz,Bebidas,19,17.69,336.11,Curitiba,PR,Loja Física
+2023-06-07,Carne,Bebidas,11,12.97,142.67000000000002,Fortaleza,CE,Online
+2023-03-01,Café,Limpeza,19,24.34,462.46,Brasília,DF,Online
+2023-11-24,Farinha,Limpeza,15,20.06,300.9,Salvador,BA,Online
+2023-03-21,Carne,Limpeza,17,33.65,572.05,Fortaleza,CE,Loja Física
+2023-04-28,Pão,Alimentos,12,6.11,73.32000000000001,Brasília,DF,Online
+2023-10-10,Café,Bebidas,8,43.08,344.64,Fortaleza,CE,Online
+2023-01-20,Açúcar,Alimentos,2,32.01,64.02,Brasília,DF,Loja Física
+2023-02-20,Açúcar,Bebidas,12,13.99,167.88,Rio de Janeiro,RJ,Online
+2023-05-15,Arroz,Bebidas,18,44.95,809.1,Salvador,BA,Online
+2023-11-19,Frango,Bebidas,4,35.94,143.76,Fortaleza,CE,Loja Física
+2023-02-16,Óleo,Bebidas,19,21.63,410.96999999999997,Belo Horizonte,MG,Loja Física
+2023-08-29,Carne,Bebidas,13,11.35,147.54999999999998,Porto Alegre,RS,Online
+2023-09-14,Feijão,Bebidas,7,28.88,202.16,São Paulo,SP,Loja Física
+2023-04-30,Café,Bebidas,2,32.58,65.16,São Paulo,SP,Online
+2023-07-11,Frango,Limpeza,16,16.14,258.24,Rio de Janeiro,RJ,Loja Física
+2023-09-08,Feijão,Limpeza,13,37.35,485.55,Fortaleza,CE,Online
+2023-12-14,Café,Bebidas,9,8.22,73.98,Belo Horizonte,MG,Loja Física
+2023-11-07,Óleo,Bebidas,13,8.73,113.49000000000001,Belo Horizonte,MG,Loja Física
+2023-12-12,Arroz,Higiene,8,17.77,142.16,Porto Alegre,RS,Online
+2023-01-03,Frango,Bebidas,15,40.62,609.3,Belo Horizonte,MG,Loja Física
+2023-05-19,Arroz,Limpeza,16,27.99,447.84,Curitiba,PR,Online
+2023-07-31,Frango,Higiene,4,22.39,89.56,Fortaleza,CE,Online
+2023-06-02,Açúcar,Alimentos,18,45.66,821.8799999999999,Belo Horizonte,MG,Loja Física
+2023-05-07,Açúcar,Bebidas,1,12.48,12.48,Brasília,DF,Online
+2023-10-25,Pão,Alimentos,7,43.66,305.62,Fortaleza,CE,Loja Física
+2023-11-26,Carne,Limpeza,3,6.91,20.73,Porto Alegre,RS,Loja Física
+2023-11-20,Carne,Higiene,3,33.54,100.62,São Paulo,SP,Online
+2023-08-03,Óleo,Higiene,1,46.08,46.08,Belo Horizonte,MG,Online
+2023-11-25,Óleo,Limpeza,15,17.31,259.65,Belo Horizonte,MG,Loja Física
+2023-11-12,Frango,Alimentos,19,18.98,360.62,São Paulo,SP,Loja Física
+2023-08-01,Óleo,Higiene,13,4.03,52.39,Porto Alegre,RS,Loja Física
+2023-09-09,Frango,Higiene,8,7.62,60.96,Fortaleza,CE,Loja Física
+2023-03-23,Café,Limpeza,13,20.43,265.59,Rio de Janeiro,RJ,Online
+2023-04-13,Óleo,Limpeza,9,34.05,306.45,Rio de Janeiro,RJ,Online
+2023-02-03,Feijão,Limpeza,18,18.54,333.71999999999997,Salvador,BA,Online
+2023-10-09,Farinha,Bebidas,16,48.39,774.24,Belo Horizonte,MG,Loja Física
+2023-02-09,Arroz,Alimentos,3,41.27,123.81,Belo Horizonte,MG,Online
+2023-07-27,Feijão,Higiene,16,13.04,208.64,Salvador,BA,Online
+2023-08-16,Óleo,Alimentos,12,11.93,143.16,Salvador,BA,Loja Física
+2023-12-27,Café,Higiene,8,44.35,354.8,Fortaleza,CE,Loja Física
+2023-11-07,Carne,Higiene,10,21.22,212.2,São Paulo,SP,Online
+2023-07-19,Pão,Alimentos,3,6.34,19.02,Curitiba,PR,Online
+2023-11-13,Óleo,Alimentos,3,42.9,128.7,Porto Alegre,RS,Online
+2023-02-04,Pão,Alimentos,14,10.46,146.44,Porto Alegre,RS,Online
+2023-09-26,Café,Alimentos,7,2.86,20.02,Curitiba,PR,Loja Física
+2023-12-23,Leite,Higiene,11,18.81,206.91,São Paulo,SP,Loja Física
+2023-03-20,Óleo,Limpeza,18,21.28,383.04,Fortaleza,CE,Online
+2023-02-21,Café,Limpeza,4,23.92,95.68,Rio de Janeiro,RJ,Online
+2023-05-10,Arroz,Limpeza,8,36.0,288.0,São Paulo,SP,Loja Física
+2023-04-02,Açúcar,Limpeza,12,21.05,252.60000000000002,Fortaleza,CE,Online
+2023-06-30,Arroz,Bebidas,5,3.13,15.649999999999999,Salvador,BA,Loja Física
+2023-08-26,Feijão,Limpeza,1,32.93,32.93,Porto Alegre,RS,Loja Física
+2023-12-13,Açúcar,Alimentos,6,13.91,83.46000000000001,Porto Alegre,RS,Online
+2023-01-09,Açúcar,Bebidas,16,43.42,694.72,Salvador,BA,Online
+2023-05-20,Café,Alimentos,15,4.07,61.050000000000004,Brasília,DF,Online
+2023-07-30,Pão,Higiene,7,11.61,81.27,Belo Horizonte,MG,Online
+2023-07-07,Café,Alimentos,2,49.1,98.2,São Paulo,SP,Loja Física
+2023-03-18,Arroz,Bebidas,11,9.8,107.80000000000001,Salvador,BA,Online
+2023-01-09,Feijão,Bebidas,12,39.13,469.56000000000006,Rio de Janeiro,RJ,Online
+2023-08-12,Carne,Higiene,7,14.97,104.79,Belo Horizonte,MG,Loja Física
+2023-07-31,Arroz,Limpeza,16,38.67,618.72,São Paulo,SP,Online
+2023-09-18,Açúcar,Bebidas,6,39.93,239.57999999999998,Rio de Janeiro,RJ,Loja Física
+2023-08-10,Café,Bebidas,5,22.98,114.9,Rio de Janeiro,RJ,Online
+2023-05-14,Açúcar,Bebidas,17,17.92,304.64000000000004,Brasília,DF,Loja Física
+2023-02-22,Arroz,Alimentos,12,7.3,87.6,Curitiba,PR,Loja Física
+2023-09-04,Pão,Bebidas,15,49.35,740.25,Belo Horizonte,MG,Loja Física
+2023-11-17,Farinha,Alimentos,7,10.99,76.93,Brasília,DF,Loja Física
+2023-10-13,Feijão,Limpeza,13,32.89,427.57,São Paulo,SP,Loja Física
+2023-10-10,Café,Alimentos,11,49.81,547.9100000000001,Brasília,DF,Online
+2023-06-04,Farinha,Higiene,12,42.06,504.72,Belo Horizonte,MG,Online
+2023-03-17,Carne,Higiene,16,8.82,141.12,Rio de Janeiro,RJ,Online
+2023-12-31,Feijão,Limpeza,1,41.34,41.34,Porto Alegre,RS,Loja Física
+2023-05-12,Arroz,Bebidas,10,34.66,346.59999999999997,Brasília,DF,Online
+2023-10-17,Farinha,Limpeza,10,35.35,353.5,São Paulo,SP,Loja Física
+2023-05-02,Pão,Limpeza,19,38.82,737.58,Brasília,DF,Online
+2023-04-29,Café,Bebidas,13,33.5,435.5,Curitiba,PR,Online
+2023-12-09,Arroz,Limpeza,5,43.22,216.1,Porto Alegre,RS,Online
+2023-02-06,Farinha,Limpeza,15,25.35,380.25,Curitiba,PR,Online
+2023-01-31,Óleo,Higiene,14,14.61,204.54,Curitiba,PR,Loja Física
+2023-02-13,Açúcar,Limpeza,14,11.57,161.98000000000002,Porto Alegre,RS,Loja Física
+2023-03-13,Carne,Limpeza,13,38.14,495.82,São Paulo,SP,Online
+2023-05-12,Farinha,Bebidas,11,29.91,329.01,Porto Alegre,RS,Loja Física
+2023-04-30,Açúcar,Alimentos,16,35.47,567.52,Curitiba,PR,Online
+2023-11-06,Farinha,Alimentos,17,33.46,568.82,Porto Alegre,RS,Loja Física
+2023-12-08,Óleo,Higiene,19,39.85,757.15,Fortaleza,CE,Online
+2023-05-07,Pão,Limpeza,6,41.57,249.42000000000002,Rio de Janeiro,RJ,Online
+2023-06-17,Açúcar,Bebidas,13,32.29,419.77,Curitiba,PR,Online
+2023-06-02,Açúcar,Higiene,8,45.08,360.64,Porto Alegre,RS,Online
+2023-02-09,Açúcar,Bebidas,1,42.8,42.8,Salvador,BA,Loja Física
+2023-08-13,Café,Limpeza,3,13.54,40.62,Curitiba,PR,Online
+2023-07-05,Açúcar,Limpeza,15,23.63,354.45,Porto Alegre,RS,Loja Física
+2023-11-06,Café,Alimentos,6,43.32,259.92,Curitiba,PR,Loja Física
+2023-06-26,Pão,Limpeza,15,8.51,127.64999999999999,Fortaleza,CE,Online
+2023-08-21,Farinha,Limpeza,16,18.35,293.6,Brasília,DF,Loja Física
+2023-02-07,Leite,Bebidas,18,46.75,841.5,São Paulo,SP,Online
+2023-08-01,Açúcar,Limpeza,4,24.81,99.24,São Paulo,SP,Online
+2023-07-07,Carne,Higiene,12,8.51,102.12,Rio de Janeiro,RJ,Online
+2023-10-18,Carne,Higiene,17,10.94,185.98,Rio de Janeiro,RJ,Loja Física
+2023-02-05,Óleo,Higiene,16,36.24,579.84,Porto Alegre,RS,Online
+2023-07-30,Pão,Alimentos,16,22.02,352.32,São Paulo,SP,Loja Física
+2023-04-21,Leite,Limpeza,6,8.97,53.82000000000001,São Paulo,SP,Online
+2023-06-30,Óleo,Higiene,18,7.96,143.28,Rio de Janeiro,RJ,Online
+2023-01-09,Óleo,Bebidas,12,24.74,296.88,São Paulo,SP,Loja Física
+2023-09-08,Farinha,Higiene,17,41.41,703.9699999999999,Salvador,BA,Online
+2023-10-13,Leite,Limpeza,19,39.35,747.65,Brasília,DF,Online
+2023-02-14,Leite,Bebidas,14,12.66,177.24,Rio de Janeiro,RJ,Loja Física
+2023-04-07,Pão,Higiene,11,30.06,330.65999999999997,Belo Horizonte,MG,Online
+2023-09-17,Café,Alimentos,8,22.83,182.64,Belo Horizonte,MG,Loja Física
+2023-02-03,Feijão,Bebidas,11,23.54,258.94,Porto Alegre,RS,Loja Física
+2023-09-04,Óleo,Alimentos,10,18.81,188.1,Fortaleza,CE,Loja Física
+2023-01-08,Açúcar,Bebidas,17,26.53,451.01,Rio de Janeiro,RJ,Loja Física
+2023-01-31,Feijão,Limpeza,2,6.2,12.4,Salvador,BA,Online
+2023-07-07,Arroz,Limpeza,8,6.27,50.16,Brasília,DF,Loja Física
+2023-03-24,Feijão,Bebidas,9,31.52,283.68,Salvador,BA,Online
+2023-02-20,Óleo,Higiene,9,43.6,392.40000000000003,Fortaleza,CE,Loja Física
+2023-03-04,Frango,Bebidas,17,34.28,582.76,Brasília,DF,Loja Física
+2023-04-17,Farinha,Higiene,9,48.05,432.45,Porto Alegre,RS,Loja Física
+2023-09-04,Óleo,Bebidas,9,3.7,33.300000000000004,Fortaleza,CE,Online
+2023-11-19,Leite,Higiene,10,39.8,398.0,Brasília,DF,Loja Física
+2023-06-14,Farinha,Bebidas,6,9.76,58.56,São Paulo,SP,Online
+2023-07-21,Leite,Bebidas,18,47.08,847.4399999999999,Fortaleza,CE,Loja Física
+2023-05-29,Pão,Limpeza,3,31.18,93.53999999999999,Curitiba,PR,Loja Física
+2023-06-21,Frango,Limpeza,10,27.62,276.2,Fortaleza,CE,Online
+2023-01-25,Frango,Higiene,8,11.0,88.0,Belo Horizonte,MG,Online
+2023-04-22,Arroz,Higiene,10,8.47,84.7,Curitiba,PR,Online
+2023-10-10,Pão,Alimentos,11,30.66,337.26,Curitiba,PR,Loja Física
+2023-06-24,Café,Alimentos,3,10.69,32.07,Porto Alegre,RS,Online
+2023-07-12,Leite,Alimentos,17,14.11,239.87,Salvador,BA,Online
+2023-03-26,Farinha,Higiene,10,39.87,398.7,Brasília,DF,Loja Física
+2023-12-01,Farinha,Higiene,18,9.87,177.66,Salvador,BA,Online
+2023-11-18,Frango,Higiene,5,21.47,107.35,Porto Alegre,RS,Loja Física
+2023-01-16,Açúcar,Limpeza,7,10.73,75.11,Rio de Janeiro,RJ,Loja Física
+2023-05-22,Feijão,Limpeza,16,42.87,685.92,Salvador,BA,Loja Física
+2023-02-13,Carne,Limpeza,11,4.34,47.739999999999995,Curitiba,PR,Loja Física
+2023-12-22,Café,Higiene,6,45.83,274.98,Belo Horizonte,MG,Loja Física
+2023-08-08,Arroz,Higiene,4,37.85,151.4,Salvador,BA,Loja Física
+2023-12-15,Pão,Higiene,6,37.63,225.78000000000003,Porto Alegre,RS,Loja Física
+2023-03-31,Frango,Alimentos,10,18.8,188.0,Salvador,BA,Online
+2023-03-28,Óleo,Limpeza,9,36.67,330.03000000000003,Fortaleza,CE,Loja Física
+2023-04-05,Leite,Bebidas,11,48.37,532.0699999999999,Porto Alegre,RS,Loja Física
+2023-09-26,Leite,Limpeza,17,12.87,218.79,Fortaleza,CE,Loja Física
+2023-02-27,Feijão,Alimentos,6,6.3,37.8,Rio de Janeiro,RJ,Online
+2023-06-14,Pão,Limpeza,17,40.12,682.04,Fortaleza,CE,Online
+2023-07-28,Carne,Limpeza,17,9.75,165.75,Brasília,DF,Online
+2023-04-16,Leite,Bebidas,13,11.71,152.23000000000002,Brasília,DF,Online
+2023-07-14,Leite,Higiene,16,16.29,260.64,Curitiba,PR,Loja Física
+2023-04-01,Farinha,Bebidas,9,49.54,445.86,Salvador,BA,Loja Física
+2023-05-19,Açúcar,Limpeza,15,21.87,328.05,Belo Horizonte,MG,Loja Física
+2023-08-15,Arroz,Higiene,10,40.38,403.8,Salvador,BA,Online
+2023-02-03,Frango,Limpeza,2,34.38,68.76,Salvador,BA,Loja Física
+2023-01-28,Feijão,Higiene,13,4.17,54.21,Curitiba,PR,Online
+2023-04-21,Farinha,Higiene,3,36.4,109.19999999999999,Belo Horizonte,MG,Online
+2023-10-13,Leite,Alimentos,19,38.76,736.4399999999999,São Paulo,SP,Loja Física
+2023-02-21,Óleo,Alimentos,4,31.15,124.6,Curitiba,PR,Loja Física
+2023-06-05,Farinha,Limpeza,6,41.75,250.5,Fortaleza,CE,Online
+2023-10-12,Café,Higiene,3,2.23,6.6899999999999995,Curitiba,PR,Online
+2023-12-22,Leite,Higiene,16,32.57,521.12,Porto Alegre,RS,Loja Física
+2023-06-09,Carne,Bebidas,8,29.94,239.52,São Paulo,SP,Loja Física
