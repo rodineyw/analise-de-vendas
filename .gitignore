@@ -1,0 +1,43 @@
+# .gitignore
+
+# Ignore arquivos de ambiente
+.env
+
+# Ignore diretórios de ambiente virtuais
+venv/
+.env/
+__pycache__/
+
+# Ignore arquivos do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignore arquivos de log
+*.log
+
+# Ignore arquivos de configuração do editor
+.vscode/
+.idea/
+
+# Ignore arquivos de cache
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore dados do Streamlit
+.streamlit/
+
+# Ignore arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignore arquivos do Python egg
+*.egg-info/
+
+# Ignore arquivos temporários
+*.bak
+*.swp
+
+# Ignore arquivos de saída
+*.csv
+*.json
+*.xlsx
